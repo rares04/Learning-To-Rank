@@ -1,0 +1,1345 @@
+# Q1 - Anunturi+studenti
+5 qid:1 1:440.0 2:0.0 3:0.9988764 4:2.9220924 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-tabere/feed/
+5 qid:1 1:440.0 2:0.0 3:0.9988764 4:2.9220924 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-tabere/feed/
+5 qid:1 1:536.0 2:0.0 3:0.9988764 4:2.8137102 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-burse/feed/
+5 qid:1 1:536.0 2:0.0 3:0.9988764 4:2.8137102 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-burse/feed/
+3 qid:1 1:312.0 2:1.4852775 3:0.018838903 4:2.653832 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/studenten/internationale-kooperationen/
+3 qid:1 1:312.0 2:1.4852775 3:0.018838903 4:2.653832 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/studenten/internationale-kooperationen/
+5 qid:1 1:440.0 2:0.0 3:0.9988764 4:2.6520028 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-practica/feed/
+# Q2 - Documente+pentru+studenti
+50 qid:2 1:1432.0 2:1.5701345 3:0.018838903 4:4.019763 5:8.0 6:3.2832294 # http://www.cs.ubbcluj.ro/studenti/documente-pentru-studenti/
+50 qid:2 1:1432.0 2:1.5701345 3:0.018838903 4:4.014355 5:8.0 6:3.2832294 # https://www.cs.ubbcluj.ro/studenti/documente-pentru-studenti/
+10 qid:2 1:2840.0 2:1.4793857 3:0.018838903 4:3.760162 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+10 qid:2 1:2840.0 2:1.4793857 3:0.018838903 4:3.7564602 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+35 qid:2 1:1432.0 2:1.1143656 3:0.018838903 4:3.6813369 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/tutorial-pentru-inscrierea-studentilor-la-examenele-de-finalizare-de-studii-licenta-disertatie/
+35 qid:2 1:1432.0 2:1.1143656 3:0.018838903 4:3.67827 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/tutorial-pentru-inscrierea-studentilor-la-examenele-de-finalizare-de-studii-licenta-disertatie/
+40 qid:2 1:1304.0 2:1.146898 3:0.018838903 4:3.546823 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/practica/preluare-predare-documente-practica-licenta/
+# Q3 - Anunturi+taxe
+35 qid:3 1:536.0 2:0.0 3:0.9988764 4:3.275267 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/feed/
+35 qid:3 1:536.0 2:0.0 3:0.9988764 4:3.275267 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/feed/
+50 qid:3 1:1816.0 2:0.7082635 3:0.018838903 4:3.0148768 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/
+50 qid:3 1:1816.0 2:0.7082635 3:0.018838903 4:3.0148768 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/
+10 qid:3 1:1304.0 2:1.3204763 3:0.018838903 4:2.906826 5:9.0 6:3.1314688 # http://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+10 qid:3 1:1304.0 2:1.3204763 3:0.018838903 4:2.906826 5:9.0 6:3.1314688 # https://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+5 qid:3 1:1688.0 2:1.4928476 3:0.018838903 4:2.8212724 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/anunt-privind-concursul-pentru-acordarea-gradatiilor-de-merit-personalului-didactic-auxiliar-septembrie-2021/
+# Q4 - Termen+de+plata+taxe
+1 qid:4 1:1560.0 2:3.465157 3:0.018838903 4:6.7983727 5:15.0 6:2.7288504 # https://www.cs.ubbcluj.ro/sustinere-teza-de-doctorat-mihai-andrei-modele-de-invatare-automata-pentru-prognoza-pe-termen-scurt-a-vremii/
+1 qid:4 1:1560.0 2:3.465157 3:0.018838903 4:6.7983727 5:15.0 6:2.7288504 # http://www.cs.ubbcluj.ro/sustinere-teza-de-doctorat-mihai-andrei-modele-de-invatare-automata-pentru-prognoza-pe-termen-scurt-a-vremii/
+3 qid:4 1:1688.0 2:3.9304633 3:0.018838903 4:6.6938524 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/hotarare-privind-calendarul-elaborarii-lucrarilor-de-licenta-disertatie-pentru-studentii-care-vor-finaliza-studiile-incepand-cu-anul-2022/
+3 qid:4 1:1688.0 2:3.9304633 3:0.018838903 4:6.6937084 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/hotarare-privind-calendarul-elaborarii-lucrarilor-de-licenta-disertatie-pentru-studentii-care-vor-finaliza-studiile-incepand-cu-anul-2022/
+5 qid:4 1:1688.0 2:2.896943 3:0.018838903 4:5.802175 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/formare-continua/
+10 qid:4 1:2072.0 2:2.681043 3:0.018838903 4:5.3210773 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/sustineri-teze-doctorat/
+10 qid:4 1:2072.0 2:2.681043 3:0.018838903 4:5.3210235 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/sustineri-teze-doctorat/
+# Q5 - Plata+online+taxe
+40 qid:5 1:1816.0 2:1.1974446 3:0.018838903 4:3.477634 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/
+40 qid:5 1:1816.0 2:1.1974446 3:0.018838903 4:3.477634 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/
+5 qid:5 1:1432.0 2:1.2853143 3:0.018838903 4:3.4242532 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/important-in-atentia-studentilor-care-au-depus-cerere-de-reinmatriculare/
+35 qid:5 1:1432.0 2:1.0767372 3:0.018838903 4:3.4127576 5:15.0 6:2.3424807 # https://www.cs.ubbcluj.ro/informatii-importante-legate-de-plata-taxei-de-scolarizare-si-a-examenelor-restante-pentru-anul-universitar-2021-2022/
+50 qid:5 1:1432.0 2:1.1346035 3:0.018838903 4:3.40299 5:16.0 6:2.260674 # https://www.cs.ubbcluj.ro/plata-on-line-a-taxelor-de-scolarizare-sau-a-taxelor-pentru-disciplinele-restante/
+50 qid:5 1:1432.0 2:1.1346035 3:0.018838903 4:3.40299 5:16.0 6:2.260674 # http://www.cs.ubbcluj.ro/plata-on-line-a-taxelor-de-scolarizare-sau-a-taxelor-pentru-disciplinele-restante/
+5 qid:5 1:1432.0 2:1.2853143 3:0.018838903 4:3.3737679 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/important-in-atentia-studentilor-care-au-depus-cerere-de-reinmatriculare/
+# Q6 - Lista+studentilor
+1 qid:6 1:1560.0 2:1.3360282 3:0.018838903 4:4.6313157 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/manual-proceduri/
+1 qid:6 1:1560.0 2:1.3360282 3:0.018838903 4:4.6313157 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/manual-proceduri/
+35 qid:6 1:1304.0 2:1.5442896 3:0.018838903 4:4.622376 5:15.0 6:1.7957344 # https://www.cs.ubbcluj.ro/lista-studentilor-care-vor-beneficia-de-un-loc-in-cadrul-programului-national-tabere-studentesti-2019/
+35 qid:6 1:1176.0 2:1.5257068 3:0.018838903 4:4.5980935 5:15.0 6:1.7957344 # http://www.cs.ubbcluj.ro/lista-studentilor-care-vor-beneficia-de-un-loc-in-cadrul-programului-national-tabere-studentesti-2019/
+5 qid:6 1:1176.0 2:1.4100038 3:0.018838903 4:4.5608735 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/hca-5200-20-03-2020-privind-situatia-studentilor-cazati-in-caminele-studentesti/
+10 qid:6 1:1432.0 2:1.4328883 3:0.018838903 4:4.4037633 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/in-atentia-studentilor-care-beneficiaza-de-burse-in-semestrul-i-al-anului-universitar-2021-2022/
+10 qid:6 1:1304.0 2:1.3844515 3:0.018838903 4:4.3309135 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/in-atentia-studentilor-care-beneficiaza-de-burse-in-semestrul-i-al-anului-universitar-2021-2022/
+# Q7 - Lista+tutorilor
+5 qid:7 1:184.0 2:1.497726 3:0.018838903 4:3.0555902 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/tutoring/
+50 qid:7 1:1816.0 2:1.4304792 3:0.018838903 4:3.0037737 5:12.0 6:2.014422 # http://www.cs.ubbcluj.ro/studenti/tutoriat/lista-tutorilor/
+50 qid:7 1:1816.0 2:1.4304792 3:0.018838903 4:3.0037737 5:12.0 6:2.014422 # https://www.cs.ubbcluj.ro/studenti/tutoriat/lista-tutorilor/
+40 qid:7 1:1560.0 2:1.3360282 3:0.018838903 4:2.9094558 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/tutoriat/atributiile-tutorilor/
+40 qid:7 1:1560.0 2:1.3360282 3:0.018838903 4:2.9094558 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/tutoriat/atributiile-tutorilor/
+5 qid:7 1:1304.0 2:1.6501291 3:0.018838903 4:2.8549612 5:15.0 6:1.7957344 # http://www.cs.ubbcluj.ro/lista-candidatilor-admisi-cu-specificarea-programelor-de-studiu-a-limbilor-de-predare-si-a-formelor-de-finantare-a-candidatilor-aflati-pe-lista-de-asteptare-si-lista-candidatilor-respinsi-admitere/
+10 qid:7 1:1176.0 2:1.5623362 3:0.018838903 4:2.8132744 5:12.0 6:2.014422 # http://www.cs.ubbcluj.ro/lista-candidatilor-admisi-in-cadrul-programului-postuniversitar-de-informatica/
+# Q8 - Atributiile+tutorilor
+50 qid:8 1:1560.0 2:0.0 3:0.018838903 4:4.7984853 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/tutoriat/atributiile-tutorilor/
+50 qid:8 1:1560.0 2:0.0 3:0.018838903 4:4.7984853 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/tutoriat/atributiile-tutorilor/
+35 qid:8 1:1304.0 2:0.0 3:0.06994397 4:1.6353211 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/wp-content/uploads/regulament-tutoriat.pdf
+10 qid:8 1:184.0 2:0.0 3:0.018838903 4:1.5546495 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/tutoring/
+40 qid:8 1:1816.0 2:0.0 3:0.018838903 4:1.486853 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/tutoriat/lista-tutorilor/
+40 qid:8 1:1816.0 2:0.0 3:0.018838903 4:1.486853 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/tutoriat/lista-tutorilor/
+3 qid:8 1:984.0 2:0.0 3:0.018838903 4:1.2320158 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+# Q9 - Orarul+consultatiilor
+40 qid:9 1:2072.0 2:1.1525328 3:0.018838903 4:4.987352 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/consultatii-admitere-2021/
+40 qid:9 1:2072.0 2:1.1525328 3:0.018838903 4:4.987352 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/consultatii-admitere-2021/
+50 qid:9 1:2328.0 2:1.3899579 3:0.018838903 4:3.9179375 5:14.0 6:2.2159512 # http://www.cs.ubbcluj.ro/studenti/tutoriat/orarul-consultatiilor/
+50 qid:9 1:2328.0 2:1.3899579 3:0.018838903 4:3.9179375 5:14.0 6:2.2159512 # https://www.cs.ubbcluj.ro/studenti/tutoriat/orarul-consultatiilor/
+5 qid:9 1:168.0 2:1.738825 3:0.9289227 4:1.7417878 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/
+5 qid:9 1:280.0 2:1.6900511 3:0.70804423 4:1.6860456 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/
+3 qid:9 1:1432.0 2:1.5574795 3:0.018838903 4:1.6205049 5:14.0 6:2.2159512 # http://www.cs.ubbcluj.ro/orarul-cursurilor-scolii-doctorale-de-matematica-si-informatica-pentru-semestrul-i-al-anului-universitar-2020-2021/
+# Q10 - Practica+licenta
+1 qid:10 1:248.0 2:3.016952 3:0.9359769 4:6.251228 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/drsa.html
+1 qid:10 1:536.0 2:3.2883189 3:0.48490477 4:5.928684 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/L402.html
+1 qid:10 1:984.0 2:2.9783874 3:0.93597746 4:5.6356444 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/index.html
+1 qid:10 1:408.0 2:2.8785794 3:0.9359769 4:5.5709496 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/coad.html
+1 qid:10 1:232.0 2:2.54464 3:0.9359769 4:5.4024086 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/vean.html
+1 qid:10 1:12312.0 2:1.4518516 3:0.93597704 4:4.2504225 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/sali/Online.html
+35 qid:10 1:1560.0 2:2.5189414 3:0.018838903 4:3.968857 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/hotarare-privind-desfasurarea-practicii-de-specialitate-la-companiiorganizatii-din-strainatate/
+# Q11 - Documente+practica
+50 qid:11 1:1432.0 2:1.3985366 3:0.018838903 4:4.9520745 5:2.0 6:4.629342 # https://www.cs.ubbcluj.ro/~practica/
+35 qid:11 1:1944.0 2:1.1852674 3:0.018838903 4:4.419272 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/practica/informatii-utile-practica-nivel-master/
+35 qid:11 1:1944.0 2:1.1852674 3:0.018838903 4:4.419272 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/practica/informatii-utile-practica-nivel-master/
+10 qid:11 1:1560.0 2:1.0836277 3:0.018838903 4:4.2832637 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/predarea-documentelor-de-practica-ale-studentilor-nivel-master-in-perioada-suspendarilor-activitatilor-didactice-fata-in-fata/
+10 qid:11 1:1560.0 2:1.0836277 3:0.018838903 4:4.2832637 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/predarea-documentelor-de-practica-ale-studentilor-nivel-master-in-perioada-suspendarilor-activitatilor-didactice-fata-in-fata/
+40 qid:11 1:2840.0 2:1.0389833 3:0.018838903 4:4.212052 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/practica/regulament-practica/
+40 qid:11 1:2840.0 2:1.0389833 3:0.018838903 4:4.212052 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/practica/regulament-practica/
+# Q12 - Practica+master
+10 qid:12 1:600.0 2:3.4282765 3:0.9988764 4:4.882205 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-practica-nivel-master/feed/
+10 qid:12 1:600.0 2:3.4282765 3:0.9988764 4:4.882205 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-practica-nivel-master/feed/
+40 qid:12 1:1944.0 2:3.2339 3:0.018838903 4:4.7069273 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/practica/informatii-utile-practica-nivel-master/
+40 qid:12 1:1944.0 2:3.2339 3:0.018838903 4:4.7069273 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/practica/informatii-utile-practica-nivel-master/
+35 qid:12 1:1560.0 2:3.1686525 3:0.018838903 4:4.557891 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/predarea-documentelor-de-practica-ale-studentilor-nivel-master-in-perioada-suspendarilor-activitatilor-didactice-fata-in-fata/
+35 qid:12 1:1560.0 2:3.1686525 3:0.018838903 4:4.557891 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/predarea-documentelor-de-practica-ale-studentilor-nivel-master-in-perioada-suspendarilor-activitatilor-didactice-fata-in-fata/
+50 qid:12 1:1816.0 2:3.1059291 3:0.018838903 4:4.5268846 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-practica-nivel-master/
+# Q13 - Regulament+practica
+50 qid:13 1:2840.0 2:1.514493 3:0.018838903 4:4.7013054 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/practica/regulament-practica/
+50 qid:13 1:2840.0 2:1.514493 3:0.018838903 4:4.7013054 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/practica/regulament-practica/
+35 qid:13 1:1944.0 2:1.3082372 3:0.018838903 4:4.5336447 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/practica/informatii-utile-practica-nivel-master/
+35 qid:13 1:1944.0 2:1.3082372 3:0.018838903 4:4.5336447 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/practica/informatii-utile-practica-nivel-master/
+40 qid:13 1:1560.0 2:1.263946 3:0.018838903 4:4.453218 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/predarea-documentelor-de-practica-ale-studentilor-nivel-master-in-perioada-suspendarilor-activitatilor-didactice-fata-in-fata/
+40 qid:13 1:1560.0 2:1.263946 3:0.018838903 4:4.453218 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/predarea-documentelor-de-practica-ale-studentilor-nivel-master-in-perioada-suspendarilor-activitatilor-didactice-fata-in-fata/
+10 qid:13 1:1816.0 2:1.2120574 3:0.018838903 4:4.2934756 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-practica-nivel-master/
+# Q14 - Mobilitati+internationale
+50 qid:14 1:312.0 2:4.781136 3:0.018838903 4:6.640099 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/studenten/internationale-kooperationen/
+50 qid:14 1:312.0 2:4.781136 3:0.018838903 4:6.640099 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/studenten/internationale-kooperationen/
+35 qid:14 1:664.0 2:0.0 3:0.9988764 4:4.933686 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/mobilitati-internationale/feed/
+35 qid:14 1:664.0 2:0.0 3:0.9988764 4:4.933686 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/mobilitati-internationale/feed/
+50 qid:14 1:1944.0 2:0.0 3:0.018838903 4:3.2291152 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/mobilitati-internationale/
+50 qid:14 1:1944.0 2:0.0 3:0.018838903 4:3.2291152 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/mobilitati-internationale/
+40 qid:14 1:1304.0 2:0.0 3:0.018838903 4:2.4567335 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/o-noua-selectie-pentru-mobilitati-erasmus-3/
+# Q15 - Anunturi+burse
+35 qid:15 1:536.0 2:0.0 3:0.9988764 4:2.8516152 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-burse/feed/
+35 qid:15 1:536.0 2:0.0 3:0.9988764 4:2.8516152 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-burse/feed/
+50 qid:15 1:1816.0 2:0.7082635 3:0.018838903 4:2.629531 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-burse/
+50 qid:15 1:1816.0 2:0.7082635 3:0.018838903 4:2.629531 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-burse/
+35 qid:15 1:1304.0 2:1.3204763 3:0.018838903 4:2.493952 5:9.0 6:3.1314688 # http://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+40 qid:15 1:1304.0 2:1.3204763 3:0.018838903 4:2.493952 5:9.0 6:3.1314688 # https://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+50 qid:15 1:664.0 2:0.0 3:0.9988764 4:2.4623275 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/mobilitati-internationale/feed/
+# Q16 - Regulament+burse
+40 qid:16 1:1816.0 2:1.3303428 3:0.018838903 4:2.6544728 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-burse/
+40 qid:16 1:1816.0 2:1.3303428 3:0.018838903 4:2.6544728 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-burse/
+3 qid:16 1:1304.0 2:1.5516918 3:0.018838903 4:2.634756 5:14.0 6:2.482647 # http://www.cs.ubbcluj.ro/regulament-structuri-cercetare-fmi-acreditate-ubb/
+5 qid:16 1:1432.0 2:1.5733284 3:0.018838903 4:2.6224854 5:14.0 6:2.482647 # http://www.cs.ubbcluj.ro/regulament-de-admitere-la-doctorat-2020-in-regim-online/
+5 qid:16 1:1432.0 2:1.5733284 3:0.018838903 4:2.6224854 5:14.0 6:2.482647 # https://www.cs.ubbcluj.ro/regulament-de-admitere-la-doctorat-2020-in-regim-online/
+35 qid:16 1:1432.0 2:1.291593 3:0.018838903 4:2.5897317 5:15.0 6:0.0 # https://www.cs.ubbcluj.ro/informatii-importante-despre-burse-sem-ii-an-univ-2020-2021/
+35 qid:16 1:1432.0 2:1.291593 3:0.018838903 4:2.5897317 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/informatii-importante-despre-burse-sem-ii-an-univ-2020-2021/
+# Q17 - Anunturi+cazare
+35 qid:17 1:536.0 2:0.0 3:0.9988764 4:3.2249565 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-cazare/feed/
+35 qid:17 1:536.0 2:0.0 3:0.9988764 4:3.2249565 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-cazare/feed/
+50 qid:17 1:1816.0 2:0.7082635 3:0.018838903 4:2.9217668 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-cazare/
+50 qid:17 1:1816.0 2:0.7082635 3:0.018838903 4:2.9217668 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-cazare/
+5 qid:17 1:1304.0 2:1.3204763 3:0.018838903 4:2.6197753 5:9.0 6:3.1314688 # http://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+5 qid:17 1:1304.0 2:1.3204763 3:0.018838903 4:2.6197753 5:9.0 6:3.1314688 # https://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+10 qid:17 1:440.0 2:0.0 3:0.9988764 4:2.5587597 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/feed/
+# Q18 - Anunturi+tabere
+35 qid:18 1:440.0 2:0.0 3:0.9988764 4:3.3477755 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-tabere/feed/
+35 qid:18 1:440.0 2:0.0 3:0.9988764 4:3.3477755 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-tabere/feed/
+50 qid:18 1:1688.0 2:0.7347009 3:0.018838903 4:3.083212 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-tabere/
+50 qid:18 1:1688.0 2:0.7347009 3:0.018838903 4:3.083212 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-tabere/
+5 qid:18 1:1304.0 2:1.3204763 3:0.018838903 4:2.6214933 5:9.0 6:3.1314688 # http://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+5 qid:18 1:1304.0 2:1.3204763 3:0.018838903 4:2.6214933 5:9.0 6:3.1314688 # https://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+3 qid:18 1:1688.0 2:1.4928476 3:0.018838903 4:2.5240178 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/anunt-privind-concursul-pentru-acordarea-gradatiilor-de-merit-personalului-didactic-auxiliar-septembrie-2021/
+# Q19 - Informatii+examen+licenta
+50 qid:19 1:1304.0 2:2.3677464 3:0.018838903 4:6.460219 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/informatii-privind-sustinerea-examenului-de-licenta-si-disertatie/
+50 qid:19 1:1304.0 2:2.3677464 3:0.018838903 4:6.460219 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/informatii-privind-sustinerea-examenului-de-licenta-si-disertatie/
+40 qid:19 1:2072.0 2:2.7986991 3:0.018838903 4:5.777906 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/admitere/nivel-licenta/acte-necesare-la-inscrierea-la-facultate-nivel-licenta/
+40 qid:19 1:2072.0 2:2.7986991 3:0.018838903 4:5.777906 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/admitere/nivel-licenta/acte-necesare-la-inscrierea-la-facultate-nivel-licenta/
+35 qid:19 1:1944.0 2:1.9565401 3:0.018838903 4:4.171212 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/~dianat/index.php
+1 qid:19 1:536.0 2:0.0 3:0.40494934 4:4.09069 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/~octavian.cret/Informatii%20utile.pdf
+5 qid:19 1:4120.0 2:1.2301583 3:0.5891108 4:4.0318475 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/wp-content/uploads/regulament-admitere-licenta-2021.pdf
+# Q20 - Anunturi+licenta
+35 qid:20 1:664.0 2:0.0 3:0.9988764 4:4.249491 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-licenta-si-disertatie/feed/
+35 qid:20 1:664.0 2:0.0 3:0.9988764 4:4.249491 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-licenta-si-disertatie/feed/
+1 qid:20 1:280.0 2:1.2465177 3:0.70804423 4:4.045356 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/
+40 qid:20 1:2072.0 2:0.66071355 3:0.018838903 4:3.6930523 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+40 qid:20 1:2072.0 2:0.66071355 3:0.018838903 4:3.6930523 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+10 qid:20 1:536.0 2:0.0 3:0.9988764 4:3.6126623 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-admitere/anunturi-admitere-nivel-licenta/feed/
+50 qid:20 1:1944.0 2:0.6836628 3:0.018838903 4:3.56097 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-licenta-si-disertatie/
+# Q21 - Anunturi+disertatie
+1 qid:21 1:42.0 2:0.0 3:0.93597746 4:4.390609 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MDM5003.html
+5 qid:21 1:136.0 2:0.0 3:0.018838903 4:4.3032103 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/lucrari/external_register.php
+10 qid:21 1:168.0 2:0.0 3:0.018838903 4:4.2883644 5:5.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/lucrari/
+35 qid:21 1:664.0 2:0.0 3:0.9988764 4:4.0970473 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-licenta-si-disertatie/feed/
+35 qid:21 1:664.0 2:0.0 3:0.9988764 4:4.0970473 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-licenta-si-disertatie/feed/
+3 qid:21 1:1816.0 2:0.7082635 3:0.018838903 4:4.0839443 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/comisiile-pentru-sustinerea-probelor-orale-ale-examenelor-de-licenta-si-disertatie-sesiunea-iunie-iulie-2015/
+50 qid:21 1:1304.0 2:0.82734823 3:0.018838903 4:3.8105338 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/informatii-privind-sustinerea-examenului-de-licenta-si-disertatie/
+# Q22 - Subiecte+bareme+examen+licenta
+50 qid:22 1:2072.0 2:1.6163766 3:0.018838903 4:7.0683255 5:14.0 6:2.307654 # https://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+50 qid:22 1:2072.0 2:1.6163766 3:0.018838903 4:7.0683255 5:14.0 6:2.307654 # http://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+10 qid:22 1:1816.0 2:1.0327373 3:0.018838903 4:5.566308 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+10 qid:22 1:1816.0 2:1.0327373 3:0.018838903 4:5.566308 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+35 qid:22 1:1304.0 2:1.1533352 3:0.018838903 4:5.562415 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+3 qid:22 1:1304.0 2:1.1533352 3:0.018838903 4:5.562415 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/omects-40612011-privind-cadrul-general-de-organizare-si-desfasurare-a-admiterii-in-ciclurile-de-studii-universitare-de-licenta-master-si-doctorat-pentru-anul-universitar-20112012/
+35 qid:22 1:1304.0 2:1.1533352 3:0.018838903 4:5.562415 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+# Q23 - Calificare+ACM
+50 qid:23 1:1304.0 2:1.4347999 3:0.018838903 4:3.1425395 5:10.0 6:3.3316646 # https://www.cs.ubbcluj.ro/regulament-calificare-acm-seerc-2016/
+50 qid:23 1:1304.0 2:1.4347999 3:0.018838903 4:3.1425395 5:10.0 6:3.3316646 # http://www.cs.ubbcluj.ro/regulament-calificare-acm-seerc-2016/
+1 qid:23 1:1176.0 2:0.86850727 3:0.018838903 4:2.2186294 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/legea-educatiei-nationale-110-01-2011/
+10 qid:23 1:1176.0 2:0.86850727 3:0.018838903 4:2.1523235 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/bosch-future-mobility-challenge-announcement/
+5 qid:23 1:1176.0 2:0.86850727 3:0.018838903 4:2.1523235 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/programul-de-formare-psihopedagogica-nivelul-i-modulul-pedagogic-pentru-cariera-didactica/
+3 qid:23 1:1304.0 2:0.83200026 3:0.018838903 4:2.1523235 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/anunt-cu-privire-la-taberele-studentesti-2019/
+35 qid:23 1:1304.0 2:0.83200026 3:0.018838903 4:2.1523235 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/arobs-java-internships-2022/
+# Q24 - Calendar+concursuri
+50 qid:24 1:1176.0 2:1.2737446 3:0.018838903 4:2.9957511 5:7.0 6:2.7992084 # https://www.cs.ubbcluj.ro/studenti/calendar-concursuri/
+50 qid:24 1:1176.0 2:1.2737446 3:0.018838903 4:2.9957511 5:7.0 6:2.7992084 # http://www.cs.ubbcluj.ro/studenti/calendar-concursuri/
+5 qid:24 1:1304.0 2:1.1048149 3:0.018838903 4:2.7830539 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/rezultate-concursuri-posturi-didactice-iulie-2017/
+35 qid:24 1:1304.0 2:1.1048149 3:0.018838903 4:2.7374268 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/solicitare-locuri-in-camin-pe-baza-rezultatelor-la-concursuri-studentesti/
+35 qid:24 1:1304.0 2:1.1048149 3:0.018838903 4:2.7374268 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/solicitare-locuri-in-camin-pe-baza-rezultatelor-la-concursuri-studentesti/
+40 qid:24 1:1304.0 2:1.2982681 3:0.018838903 4:2.7350519 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/informatii-privind-sustinerea-examenului-de-licenta-si-disertatie/
+40 qid:24 1:1304.0 2:1.2982681 3:0.018838903 4:2.7350519 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/informatii-privind-sustinerea-examenului-de-licenta-si-disertatie/
+# Q25 - Concursuri+pentru+studenti
+10 qid:25 1:1432.0 2:1.4020942 3:0.018838903 4:3.9686449 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/tutorial-pentru-inscrierea-studentilor-la-examenele-de-finalizare-de-studii-licenta-disertatie/
+10 qid:25 1:1432.0 2:1.4020942 3:0.018838903 4:3.965578 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/tutorial-pentru-inscrierea-studentilor-la-examenele-de-finalizare-de-studii-licenta-disertatie/
+40 qid:25 1:1176.0 2:1.5731509 3:0.018838903 4:3.9124916 5:7.0 6:3.0059812 # http://www.cs.ubbcluj.ro/studenti/calendar-concursuri/
+40 qid:25 1:1176.0 2:1.5731509 3:0.018838903 4:3.908072 5:7.0 6:3.0059812 # https://www.cs.ubbcluj.ro/studenti/calendar-concursuri/
+1 qid:25 1:1560.0 2:1.377574 3:0.018838903 4:3.8113647 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/statistica-privind-repartizarea-pe-specializari-a-candidatilor-la-admiterea-2014/
+3 qid:25 1:1304.0 2:1.552481 3:0.018838903 4:3.7970471 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/catalysts-coding-contest-s-a-mutat-online/
+5 qid:25 1:1432.0 2:1.4020942 3:0.018838903 4:3.7933955 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/documente-pentru-studenti/
+# Q26 - Acces+Conturi+oferite+de+universitate
+50 qid:26 1:1944.0 2:1.5901937 3:0.018838903 4:9.707071 5:14.0 6:2.8313065 # https://www.cs.ubbcluj.ro/acces-la-resursele-conturile-si-serverele-oferite-de-universitate-si-facultate/
+50 qid:26 1:1944.0 2:1.5901937 3:0.018838903 4:9.706967 5:14.0 6:2.8313065 # http://www.cs.ubbcluj.ro/acces-la-resursele-conturile-si-serverele-oferite-de-universitate-si-facultate/
+5 qid:26 1:1816.0 2:1.2040949 3:0.018838903 4:5.7449775 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/calendarul-organizarii-examenului-de-disertatie-sesiunea-septembrie-2021/
+5 qid:26 1:1816.0 2:1.2040949 3:0.018838903 4:5.7449174 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/calendarul-organizarii-examenului-de-disertatie-sesiunea-septembrie-2021/
+10 qid:26 1:1816.0 2:1.2040949 3:0.018838903 4:5.744795 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/calendarul-organizarii-examenului-de-licenta-sesiunea-septembrie-2021/
+10 qid:26 1:1816.0 2:1.2040949 3:0.018838903 4:5.744795 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/calendarul-organizarii-examenului-de-licenta-sesiunea-septembrie-2021/
+3 qid:26 1:1688.0 2:0.7298744 3:0.018838903 4:5.417221 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/calendar-acte-necesare-si-procedura-de-inscriere-la-examenul-de-disertatie-in-sesiunea-iunie-iulie-2021/
+# Q27 - Academic+Info
+5 qid:27 1:1560.0 2:0.9719062 3:0.018838903 4:2.0072756 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sesiunii-de-examene-pentru-studentii-din-anul-i-ii-iii-nivel-licenta-si-studentii-din-anul-i-si-ii-nivel-master/
+5 qid:27 1:1560.0 2:0.9719062 3:0.018838903 4:2.0072756 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sesiunii-de-examene-pentru-studentii-din-anul-i-ii-iii-nivel-licenta-si-studentii-din-anul-i-si-ii-nivel-master/
+5 qid:27 1:920.0 2:1.0680784 3:0.018838903 4:2.006466 5:16.0 6:2.1155963 # https://www.cs.ubbcluj.ro/schedule-of-the-exam-and-retake-sessions-1st-semester-2020-2021-academic-year/
+5 qid:27 1:920.0 2:1.0680784 3:0.018838903 4:2.006466 5:16.0 6:2.1155963 # http://www.cs.ubbcluj.ro/schedule-of-the-exam-and-retake-sessions-1st-semester-2020-2021-academic-year/
+35 qid:27 1:1944.0 2:0.94598854 3:0.018838903 4:1.9787896 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/anunt-cu-privire-la-derularea-activitatilor-administrative-in-anul-universitar-2021-2022/
+10 qid:27 1:1432.0 2:0.94520456 3:0.018838903 4:1.9482404 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/anunt-referitor-la-cazarea-studentilor-in-caminele-studentesti-pentru-anul-universitar-2021-2022/
+10 qid:27 1:1304.0 2:0.9322059 3:0.018838903 4:1.9422476 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/cazarea-studentilor-in-caminele-studentesti-pentru-anul-universitar-2021-2022/
+# Q28 - Bibliotecta+Centrala+Universitara+cluj+napoca
+5 qid:28 1:1304.0 2:0.0 3:0.018838903 4:4.134131 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/berlin-drumul-spre-succes-al-unui-absolvent-de-mate-info-din-cluj-napoca/
+3 qid:28 1:1304.0 2:0.0 3:0.018838903 4:4.0921783 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/oportunitate-mobilitati-de-plasament-erasmus-2021-biroul-erasmus-al-ubb-si-aiesec-cluj-napoca/
+5 qid:28 1:1304.0 2:0.0 3:0.018838903 4:4.0921783 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/berlin-drumul-spre-succes-al-unui-absolvent-de-mate-info-din-cluj-napoca/
+3 qid:28 1:1304.0 2:0.0 3:0.018838903 4:4.0921783 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/oportunitate-mobilitati-de-plasament-erasmus-2021-biroul-erasmus-al-ubb-si-aiesec-cluj-napoca/
+35 qid:28 1:1304.0 2:0.0 3:0.018838903 4:4.08682 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/relatia-cu-unitati-de-invatamant-si-ong-uri/
+10 qid:28 1:1688.0 2:0.0 3:0.018838903 4:4.0835366 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/gradul-ii/bibliografie-gradul-ii/
+40 qid:28 1:984.0 2:0.0 3:0.018838903 4:4.0630703 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+# Q29 - Gestiunea+lucrarilor+de+diploma
+40 qid:29 1:136.0 2:4.195494 3:0.018838903 4:12.859245 5:11.0 6:3.0523357 # https://www.cs.ubbcluj.ro/apps/lucrari/external_register.php
+50 qid:29 1:168.0 2:4.1541657 3:0.018838903 4:12.819925 5:5.0 6:4.090883 # https://www.cs.ubbcluj.ro/apps/lucrari/
+5 qid:29 1:1048.0 2:3.9648652 3:0.018838903 4:6.5029488 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/coordination/Undergraduate_Thesis/completed/
+3 qid:29 1:152.0 2:3.5641105 3:0.81164086 4:6.2198415 5:1.0 6:0.0 # http://www.cs.ubbcluj.ro/~ica/diploma/HS-2021-058-Lista-unit%C4%83%C8%9Bilor-de-cercetare-acreditate.pdf
+1 qid:29 1:200.0 2:4.8211985 3:0.93597704 4:5.3765306 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/suda.html
+35 qid:29 1:1304.0 2:0.0 3:0.018838903 4:5.07001 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+35 qid:29 1:1304.0 2:0.0 3:0.018838903 4:5.07001 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+# Q30 - WEb+FTP
+50 qid:30 1:88.0 2:0.6603574 3:0.018838903 4:2.0376518 5:6.0 6:3.1672957 # https://www.cs.ubbcluj.ro/apps/ftp/
+50 qid:30 1:88.0 2:0.6603574 3:0.018838903 4:2.0376518 5:6.0 6:3.1672957 # https://www.cs.ubbcluj.ro/apps/ftp/index.php
+3 qid:30 1:856.0 2:0.75924796 3:0.018838903 4:1.7393814 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/alumni/information/
+3 qid:30 1:856.0 2:0.75924796 3:0.018838903 4:1.7393814 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/alumni/information/
+1 qid:30 1:920.0 2:0.723377 3:0.018838903 4:1.6881084 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/schedule-of-the-exam-and-retake-sessions-1st-semester-2020-2021-academic-year/
+1 qid:30 1:920.0 2:0.723377 3:0.018838903 4:1.6881084 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/schedule-of-the-exam-and-retake-sessions-1st-semester-2020-2021-academic-year/
+1 qid:30 1:920.0 2:0.6786115 3:0.018838903 4:1.6434 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/oktatas/informatika-es-szoftverfejlesztes-posztgradualis-kepzesi-program/tanterv/
+# Q31 - Webmail
+35 qid:31 1:792.0 2:1.1038226 3:0.018838903 4:1.1073642 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/about-the-faculty/contact/
+10 qid:31 1:792.0 2:1.1038226 3:0.018838903 4:1.1073642 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/board/dean-and-vice-deans/
+35 qid:31 1:792.0 2:1.1038226 3:0.018838903 4:1.1073642 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/about-the-faculty/contact/
+10 qid:31 1:792.0 2:1.1038226 3:0.018838903 4:1.1073642 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/board/dean-and-vice-deans/
+5 qid:31 1:792.0 2:1.1038226 3:0.018838903 4:1.1073642 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/board/senate-members/
+1 qid:31 1:792.0 2:1.1038226 3:0.018838903 4:1.1073642 5:17.0 6:0.0 # https://www.cs.ubbcluj.ro/mapping-class-groups-3-and-4-manifolds-summer-school-july-27-august-1-2015-babes-bolyai-university-cluj-napoca/
+50 qid:31 1:0.0 2:0.0 3:0.018838903 4:1.0999048 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/webmail/src/login.php
+# Q32 - Consiliere+cariera
+10 qid:32 1:1304.0 2:5.4069757 3:0.06994397 4:5.42025 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/wp-content/uploads/regulament-tutoriat.pdf
+35 qid:32 1:1560.0 2:4.7899036 3:0.018838903 4:4.8057632 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/tutoriat/atributiile-tutorilor/
+35 qid:32 1:1560.0 2:4.7899036 3:0.018838903 4:4.8057632 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/tutoriat/atributiile-tutorilor/
+5 qid:32 1:664.0 2:0.0 3:0.9988764 4:4.1685233 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/mobilitati-internationale/feed/
+5 qid:32 1:664.0 2:0.0 3:0.9988764 4:4.1685233 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/mobilitati-internationale/feed/
+10 qid:32 1:1176.0 2:0.0 3:0.018838903 4:4.0028996 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/programul-de-formare-psihopedagogica-nivelul-i-modulul-pedagogic-pentru-cariera-didactica/
+10 qid:32 1:1176.0 2:0.0 3:0.018838903 4:4.0028996 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/programul-de-formare-psihopedagogica-nivelul-i-modulul-pedagogic-pentru-cariera-didactica/
+# Q33 - Cabinetul+medical
+3 qid:33 1:2584.0 2:2.155736 3:0.018838903 4:3.517384 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/burse-semestrul-ii-an-univ-2020-2021/
+3 qid:33 1:2584.0 2:2.155736 3:0.018838903 4:3.517384 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/burse-semestrul-ii-an-univ-2020-2021/
+5 qid:33 1:2840.0 2:2.0352712 3:0.018838903 4:3.2019148 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+5 qid:33 1:2840.0 2:2.0352712 3:0.018838903 4:3.2019148 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+10 qid:33 1:1304.0 2:3.0618787 3:0.06994397 4:3.0778148 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/wp-content/uploads/regulament-tutoriat.pdf
+35 qid:33 1:440.0 2:0.0 3:0.018838903 4:1.7426986 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/~fca/symptoms-investigation-by-means-of-formal-concept-analysis-for-enhancing-medical-diagnoses/
+1 qid:33 1:1048.0 2:0.0 3:0.018838903 4:1.6300986 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/~fca/
+# Q34 - Program+secretariat
+3 qid:34 1:1816.0 2:1.1195676 3:0.018838903 4:5.842871 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+3 qid:34 1:1816.0 2:1.1195676 3:0.018838903 4:5.842871 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+5 qid:34 1:152.0 2:1.1199502 3:0.07838151 4:4.8521547 5:3.0 6:0.0 # http://www.cs.ubbcluj.ro/zac2010/
+1 qid:34 1:3608.0 2:0.0 3:0.69529206 4:4.005498 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/~erasmus/anunturi.htm
+10 qid:34 1:168.0 2:0.0 3:0.16134125 4:3.7390537 5:0.0 6:0.0 # http://www.cs.ubbcluj.ro/wp-content/uploads/orgranigrama_FMI_2017.pdf
+40 qid:34 1:1304.0 2:1.2007233 3:0.018838903 4:3.557909 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/contact/
+1 qid:34 1:1304.0 2:1.1112642 3:0.018838903 4:3.468688 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/az-osztondijalap-elosztasa-a-2020-2021-es-egyetemi-tanev-ii-feleveben/
+# Q35 - Anunturi+cadre+didactice
+35 qid:35 1:664.0 2:0.0 3:0.9988764 4:3.857572 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-cadre-didactice/feed/
+35 qid:35 1:664.0 2:0.0 3:0.9988764 4:3.857572 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-cadre-didactice/feed/
+40 qid:35 1:1304.0 2:1.3204763 3:0.018838903 4:3.740148 5:9.0 6:3.1314688 # http://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+40 qid:35 1:1304.0 2:1.3204763 3:0.018838903 4:3.740148 5:9.0 6:3.1314688 # https://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+10 qid:35 1:1688.0 2:1.4928476 3:0.018838903 4:3.6574104 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/anunt-privind-concursul-pentru-acordarea-gradatiilor-de-merit-personalului-didactic-auxiliar-septembrie-2021/
+5 qid:35 1:1176.0 2:0.86365104 3:0.018838903 4:3.654129 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-definitivat/
+50 qid:35 1:1944.0 2:0.6836628 3:0.018838903 4:3.6430404 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-cadre-didactice/
+# Q36 - Personal+didactic
+10 qid:36 1:168.0 2:1.3542022 3:0.9988764 4:2.6363454 5:9.0 6:3.056424 # http://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/feed/
+10 qid:36 1:168.0 2:1.3542022 3:0.9988764 4:2.6363454 5:9.0 6:3.056424 # https://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/feed/
+40 qid:36 1:1304.0 2:1.2456472 3:0.018838903 4:2.4275181 5:9.0 6:3.056424 # http://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+40 qid:36 1:1304.0 2:1.2456472 3:0.018838903 4:2.4275181 5:9.0 6:3.056424 # https://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+35 qid:36 1:1688.0 2:1.2516654 3:0.018838903 4:2.3522916 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/anunt-privind-concursul-pentru-acordarea-gradatiilor-de-merit-personalului-didactic-auxiliar-septembrie-2021/
+35 qid:36 1:1688.0 2:1.2516654 3:0.018838903 4:2.3522916 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/anunt-privind-concursul-pentru-acordarea-gradatiilor-de-merit-personalului-didactic-auxiliar-septembrie-2021/
+1 qid:36 1:1304.0 2:1.3088672 3:0.018838903 4:2.244341 5:14.0 6:2.482647 # http://www.cs.ubbcluj.ro/legea-6772001-privind-protectia-persoanelor-cu-privire-la-prelucrarea-datelor-cu-caracter-personal-si-libera-circulatie-a-acestor-date/
+# Q37 - Lista+cadrelor+didactice+matematica
+5 qid:37 1:1304.0 2:1.6501291 3:0.018838903 4:5.294794 5:15.0 6:1.7957344 # http://www.cs.ubbcluj.ro/lista-candidatilor-admisi-cu-specificarea-programelor-de-studiu-a-limbilor-de-predare-si-a-formelor-de-finantare-a-candidatilor-aflati-pe-lista-de-asteptare-si-lista-candidatilor-respinsi-admitere/
+3 qid:37 1:1304.0 2:1.4547161 3:0.018838903 4:5.1491127 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+3 qid:37 1:1560.0 2:1.4117057 3:0.018838903 4:5.110115 5:17.0 6:0.0 # https://www.cs.ubbcluj.ro/listele-cu-mediile-pentru-burse-pe-sem-2-an-univ-2021-2022/
+3 qid:37 1:1304.0 2:1.4547161 3:0.018838903 4:5.066471 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiuna-iunie-iulie-2021/
+3 qid:37 1:1304.0 2:1.4547161 3:0.018838903 4:5.066471 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiuna-iunie-iulie-2021/
+3 qid:37 1:1304.0 2:1.3844515 3:0.018838903 4:5.060294 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+10 qid:37 1:1432.0 2:1.4328883 3:0.018838903 4:5.0502396 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/domeniul-de-stiinta-matematica-din-cadrul-universitatii-babes-bolyai-urca-pe-locul-63-in-clasamentul-mondial-al-universitatilor-realizat-in-2015-de-u-s-news-world-reports/
+# Q38 - Lista+cadrelor+didactice+informatica
+35 qid:38 1:1304.0 2:1.5056603 3:0.018838903 4:4.7632976 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/procesul-de-evaluare-al-cadrelor-didactice-de-catre-studenti/
+35 qid:38 1:1304.0 2:1.4547161 3:0.018838903 4:4.7125483 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/procesul-de-evaluare-al-cadrelor-didactice-de-catre-studenti/
+3 qid:38 1:1176.0 2:1.4100038 3:0.018838903 4:4.694652 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/metodologia-privind-continuarea-activitatii-cadrelor-didactice-si-de-cercetare-dupa-implinirea-varstei-de-pensionare/
+5 qid:38 1:1176.0 2:1.4100038 3:0.018838903 4:4.68645 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/evaluarea-activitatii-profesionale-a-cadrelor-didactice-si-cercetatorilor-de-catre-conducere/
+10 qid:38 1:1560.0 2:1.3360282 3:0.018838903 4:4.676949 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/dotari-si-facilitati/laboratoarele-de-informatica/
+1 qid:38 1:1304.0 2:1.6501291 3:0.018838903 4:4.6379776 5:15.0 6:1.7957344 # http://www.cs.ubbcluj.ro/lista-candidatilor-admisi-cu-specificarea-programelor-de-studiu-a-limbilor-de-predare-si-a-formelor-de-finantare-a-candidatilor-aflati-pe-lista-de-asteptare-si-lista-candidatilor-respinsi-admitere/
+1 qid:38 1:1560.0 2:1.3360282 3:0.018838903 4:4.479598 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-universitatii/
+# Q39 - Cadre+cadrelor+didactice+maghiara
+3 qid:39 1:1560.0 2:1.2607403 3:0.018838903 4:5.4490685 5:17.0 6:0.0 # https://www.cs.ubbcluj.ro/listele-cu-mediile-pentru-burse-pe-sem-2-an-univ-2021-2022/
+3 qid:39 1:1560.0 2:1.2607403 3:0.018838903 4:5.428289 5:17.0 6:0.0 # http://www.cs.ubbcluj.ro/listele-cu-mediile-pentru-burse-pe-sem-2-an-univ-2021-2022/
+1 qid:39 1:1432.0 2:1.2883171 3:0.018838903 4:5.2343354 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/statistica-privind-repartizarea-pe-specializari-a-candidatilor-la-admiterea-2012/
+1 qid:39 1:1560.0 2:1.2607403 3:0.018838903 4:5.141738 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/statistica-privind-repartizarea-pe-specializari-a-candidatilor-la-admiterea-2014/
+1 qid:39 1:1560.0 2:1.2607403 3:0.018838903 4:5.141738 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/statistica-privind-repartizarea-pe-specializari-a-candidatilor-la-admiterea-2013/
+5 qid:39 1:2072.0 2:1.161308 3:0.018838903 4:4.5939484 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/istoric/invatamantul-universitar-in-transilvania/
+10 qid:39 1:1944.0 2:1.3895493 3:0.018838903 4:4.448219 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-licenta-si-disertatie/
+# Q40 - Foste+cadre+didactice
+50 qid:40 1:1432.0 2:1.2995195 3:0.018838903 4:4.057505 5:10.0 6:3.3316646 # https://www.cs.ubbcluj.ro/cadre-didactice/foste-cadre-didactice-ale-facultatii/
+50 qid:40 1:1432.0 2:1.2995195 3:0.018838903 4:4.057505 5:10.0 6:3.3316646 # http://www.cs.ubbcluj.ro/cadre-didactice/foste-cadre-didactice-ale-facultatii/
+10 qid:40 1:1304.0 2:0.8324257 3:0.018838903 4:3.30736 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/de-centenar-impreuna/
+10 qid:40 1:1304.0 2:0.8324257 3:0.018838903 4:3.294432 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/de-centenar-impreuna/
+3 qid:40 1:1304.0 2:0.8324257 3:0.018838903 4:3.2783315 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/noi-standardele-minimale-necesare-si-obligatorii-pentru-conferirea-titlurilor-didactice-din-invatamantul-superior-a-gradelor-profesionale-de-cercetare-dezvoltare-a-calitatii-de-conducator-de-doctora/
+1 qid:40 1:1176.0 2:0.8689512 3:0.018838903 4:3.2783315 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/standarde-minimale-necesare-si-obligatorii-pentru-conferirea-titlurilor-didactice-din-invatamantul-superior/
+1 qid:40 1:1176.0 2:0.8689512 3:0.018838903 4:3.2783315 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/metodologia-privind-continuarea-activitatii-cadrelor-didactice-si-de-cercetare-dupa-implinirea-varstei-de-pensionare/
+# Q41 - Proceduri+interne
+50 qid:41 1:1560.0 2:1.3754747 3:0.018838903 4:3.0313444 5:11.0 6:3.1906967 # http://www.cs.ubbcluj.ro/manual-proceduri/
+50 qid:41 1:1560.0 2:1.3754747 3:0.018838903 4:3.0313444 5:11.0 6:3.1906967 # https://www.cs.ubbcluj.ro/manual-proceduri/
+5 qid:41 1:600.0 2:1.5041347 3:0.31101882 4:2.8812335 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/~octavian.cret/Curs/Curs%2010%20germana%20OC.docx
+3 qid:41 1:1688.0 2:1.432214 3:0.018838903 4:2.67989 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/tematica-informatica-admitere/
+10 qid:41 1:1304.0 2:1.1480634 3:0.018838903 4:2.4787035 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/noua-metodologie-aracis-privind-evaluarea-programelor-de-licenta-si-master/
+35 qid:41 1:1560.0 2:0.76241314 3:0.018838903 4:2.327045 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-universitatii/
+40 qid:41 1:1688.0 2:1.0556116 3:0.018838903 4:2.303845 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/
+# Q42 - Factori+de+impact+si+clasificari+ale+revistelor
+50 qid:42 1:1432.0 2:1.4071039 3:0.018838903 4:11.16871 5:12.0 6:3.061174 # http://www.cs.ubbcluj.ro/cercetare/factori-de-impact-si-clasificari-ale-revistelor/
+50 qid:42 1:1432.0 2:1.4071039 3:0.018838903 4:11.168603 5:12.0 6:3.061174 # https://www.cs.ubbcluj.ro/cercetare/factori-de-impact-si-clasificari-ale-revistelor/
+35 qid:42 1:1560.0 2:1.090266 3:0.018838903 4:6.306163 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/cadre-didactice/documente-personal-didactic/
+35 qid:42 1:1560.0 2:1.090266 3:0.018838903 4:6.3060765 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/cadre-didactice/documente-personal-didactic/
+3 qid:42 1:1304.0 2:0.83072674 3:0.018838903 4:5.567581 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/omects-40612011-privind-cadrul-general-de-organizare-si-desfasurare-a-admiterii-in-ciclurile-de-studii-universitare-de-licenta-master-si-doctorat-pentru-anul-universitar-20112012/
+10 qid:42 1:1304.0 2:0.83072674 3:0.018838903 4:5.5558376 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/informatica-si-dezvoltare-software/plan-de-invatamant/
+10 qid:42 1:1304.0 2:0.83072674 3:0.018838903 4:5.5558376 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/informatica-si-dezvoltare-software/plan-de-invatamant/
+# Q43 - Incarcarea+fiselor+disciplinelor
+3 qid:43 1:44.0 2:4.571008 3:0.018838903 4:10.492629 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/fise/2015/
+10 qid:43 1:44.0 2:4.571008 3:0.018838903 4:10.492629 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/fise/2017/
+40 qid:43 1:44.0 2:4.571008 3:0.018838903 4:10.492629 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/fise/2019/
+50 qid:43 1:44.0 2:4.571008 3:0.018838903 4:10.492629 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/fise/2020/
+1 qid:43 1:44.0 2:4.571008 3:0.018838903 4:10.492629 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/fise/2014/
+5 qid:43 1:44.0 2:4.571008 3:0.018838903 4:10.492629 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/fise/2016/
+35 qid:43 1:44.0 2:4.571008 3:0.018838903 4:10.492629 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/fise/2018/
+# Q44 - Mail+catre+studenti
+10 qid:44 1:1304.0 2:0.48220915 3:0.018838903 4:2.773494 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/procesul-de-evaluare-al-cadrelor-didactice-de-catre-studenti/
+10 qid:44 1:1304.0 2:0.48220915 3:0.018838903 4:2.773494 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/procesul-de-evaluare-al-cadrelor-didactice-de-catre-studenti/
+5 qid:44 1:1432.0 2:0.4627576 3:0.018838903 4:2.7174225 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/tutorial-pentru-inscrierea-studentilor-la-examenele-de-finalizare-de-studii-licenta-disertatie/
+5 qid:44 1:1432.0 2:0.4627576 3:0.018838903 4:2.7174225 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/tutorial-pentru-inscrierea-studentilor-la-examenele-de-finalizare-de-studii-licenta-disertatie/
+35 qid:44 1:1432.0 2:0.4627576 3:0.018838903 4:2.6896234 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/procesul-de-evaluare-a-prestatiei-didactice-de-catre-studenti/
+35 qid:44 1:1432.0 2:0.4627576 3:0.018838903 4:2.6896234 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/procesul-de-evaluare-a-prestatiei-didactice-de-catre-studenti/
+3 qid:44 1:1432.0 2:0.7527882 3:0.018838903 4:2.6561997 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/test-de-selectie-in-vederea-participarii-la-concursul-studentesc-de-matematica-traian-lalescu/
+# Q45 - Managementul+activitatii+academice
+1 qid:45 1:280.0 2:0.0 3:0.018838903 4:5.263738 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/Year/
+3 qid:45 1:280.0 2:0.0 3:0.018838903 4:5.263738 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/
+1 qid:45 1:280.0 2:0.0 3:0.018838903 4:5.263738 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/Author/
+1 qid:45 1:280.0 2:0.0 3:0.018838903 4:5.263738 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/Title/
+1 qid:45 1:280.0 2:0.0 3:0.018838903 4:5.263738 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/importance/
+40 qid:45 1:1176.0 2:0.83513254 3:0.018838903 4:5.246949 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/evaluarea-activitatii-profesionale-a-cadrelor-didactice-si-cercetatorilor-de-catre-conducere/
+1 qid:45 1:280.0 2:0.0 3:0.018838903 4:5.2013364 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/length/
+# Q46 - Webmail+CS
+35 qid:46 1:792.0 2:1.1038226 3:0.018838903 4:2.2521515 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/about-the-faculty/contact/
+10 qid:46 1:792.0 2:1.1038226 3:0.018838903 4:2.2521515 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/board/dean-and-vice-deans/
+5 qid:46 1:792.0 2:1.1038226 3:0.018838903 4:2.2521515 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/board/senate-members/
+3 qid:46 1:856.0 2:1.0904324 3:0.018838903 4:2.2278764 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-curriculum/
+3 qid:46 1:856.0 2:1.0904324 3:0.018838903 4:2.2278764 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/research-journals/
+3 qid:46 1:792.0 2:1.1038226 3:0.018838903 4:2.2278764 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/alumni/class-reunions/
+3 qid:46 1:856.0 2:1.0904324 3:0.018838903 4:2.2278764 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/alumni/information/
+# Q47 - Math+Webmail
+35 qid:47 1:792.0 2:0.7220182 3:0.018838903 4:1.8273383 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/about-the-faculty/contact/
+10 qid:47 1:792.0 2:0.6957039 3:0.018838903 4:1.8012578 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/board/dean-and-vice-deans/
+5 qid:47 1:792.0 2:0.6957039 3:0.018838903 4:1.8012578 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/board/senate-members/
+3 qid:47 1:856.0 2:0.6889732 3:0.018838903 4:1.7813027 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-curriculum/
+3 qid:47 1:856.0 2:0.6889732 3:0.018838903 4:1.7813027 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/research-journals/
+3 qid:47 1:792.0 2:0.6957039 3:0.018838903 4:1.7813027 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/alumni/class-reunions/
+3 qid:47 1:856.0 2:0.6889732 3:0.018838903 4:1.7813027 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/alumni/information/
+# Q48 - Oferta+educationala
+1 qid:48 1:88.0 2:0.0 3:0.8313489 4:4.735335 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/bove.html
+1 qid:48 1:88.0 2:0.0 3:0.8313489 4:4.735335 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/mefl.html
+1 qid:48 1:76.0 2:0.0 3:0.8313489 4:4.661273 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/baan1.html
+1 qid:48 1:792.0 2:0.0 3:0.8313496 4:4.580065 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/MIE1.html
+1 qid:48 1:1432.0 2:0.0 3:0.8313496 4:4.569729 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/MI1.html
+1 qid:48 1:42.0 2:0.0 3:0.93597746 4:4.5629125 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MDM5003.html
+1 qid:48 1:52.0 2:0.0 3:0.93597746 4:4.558887 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MDM5001.html
+# Q49 - Computer+Science
+10 qid:49 1:1048.0 2:1.3886925 3:0.018838903 4:2.896146 5:13.0 6:1.8864878 # http://www.cs.ubbcluj.ro/education/academic-programmes/phd/
+10 qid:49 1:1048.0 2:1.3886925 3:0.018838903 4:2.896146 5:13.0 6:1.8864878 # https://www.cs.ubbcluj.ro/education/academic-programmes/phd/
+35 qid:49 1:1432.0 2:1.3892586 3:0.018838903 4:2.8956838 5:14.0 6:1.2520125 # https://www.cs.ubbcluj.ro/education/academic-programmes/doctoral-programmes/the-doctoral-school-in-mathematics-and-computer-science/
+35 qid:49 1:1432.0 2:1.3892586 3:0.018838903 4:2.8956838 5:14.0 6:1.2520125 # http://www.cs.ubbcluj.ro/education/academic-programmes/doctoral-programmes/the-doctoral-school-in-mathematics-and-computer-science/
+40 qid:49 1:1176.0 2:1.3873394 3:0.018838903 4:2.8940685 5:12.0 6:1.9414028 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-computer-science/
+40 qid:49 1:1176.0 2:1.3873394 3:0.018838903 4:2.8940685 5:12.0 6:1.9414028 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-computer-science/
+35 qid:49 1:1304.0 2:1.3876638 3:0.018838903 4:2.8935823 5:12.0 6:1.9414028 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/didactics-of-computer-science-programme-profile/
+# Q50 - Mathematics+Computer+Science
+10 qid:50 1:1048.0 2:1.3745953 3:0.018838903 4:4.275071 5:13.0 6:1.8778518 # http://www.cs.ubbcluj.ro/education/academic-programmes/phd/
+10 qid:50 1:1048.0 2:1.3745953 3:0.018838903 4:4.275071 5:13.0 6:1.8778518 # https://www.cs.ubbcluj.ro/education/academic-programmes/phd/
+35 qid:50 1:1432.0 2:1.3740658 3:0.018838903 4:4.2743955 5:14.0 6:1.8261957 # https://www.cs.ubbcluj.ro/education/academic-programmes/doctoral-programmes/the-doctoral-school-in-mathematics-and-computer-science/
+35 qid:50 1:1432.0 2:1.3740658 3:0.018838903 4:4.2743955 5:14.0 6:1.8261957 # http://www.cs.ubbcluj.ro/education/academic-programmes/doctoral-programmes/the-doctoral-school-in-mathematics-and-computer-science/
+3 qid:50 1:792.0 2:1.3784082 3:0.018838903 4:4.2728987 5:8.0 6:1.6086729 # http://www.cs.ubbcluj.ro/alumni/class-reunions/
+3 qid:50 1:792.0 2:1.3784082 3:0.018838903 4:4.2728987 5:8.0 6:1.6086729 # https://www.cs.ubbcluj.ro/alumni/class-reunions/
+5 qid:50 1:920.0 2:1.3737668 3:0.018838903 4:4.2663217 5:12.0 6:1.3474638 # http://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+# Q51 - Mathematics
+5 qid:51 1:792.0 2:1.3784082 3:0.018838903 4:1.3805063 5:8.0 6:1.6086729 # http://www.cs.ubbcluj.ro/alumni/class-reunions/
+5 qid:51 1:792.0 2:1.3784082 3:0.018838903 4:1.3805063 5:8.0 6:1.6086729 # https://www.cs.ubbcluj.ro/alumni/class-reunions/
+35 qid:51 1:1304.0 2:1.3746283 3:0.018838903 4:1.3793252 5:13.0 6:1.8778518 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+40 qid:51 1:1304.0 2:1.3746283 3:0.018838903 4:1.3793252 5:12.0 6:1.9325154 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/didactic-mathematics-in-hungarian-programme-profile/
+40 qid:51 1:1304.0 2:1.3746283 3:0.018838903 4:1.3793252 5:12.0 6:1.9325154 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/didactic-mathematics-in-hungarian-programme-profile/
+35 qid:51 1:1304.0 2:1.3746283 3:0.018838903 4:1.3793252 5:13.0 6:1.8778518 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+10 qid:51 1:1048.0 2:1.3745953 3:0.018838903 4:1.3789253 5:13.0 6:1.8778518 # http://www.cs.ubbcluj.ro/education/academic-programmes/phd/
+# Q52 - Databases
+50 qid:52 1:1176.0 2:3.1891003 3:0.018838903 4:3.202042 5:9.0 6:3.485664 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/databases-programme-profile/
+50 qid:52 1:1176.0 2:3.1891003 3:0.018838903 4:3.202042 5:9.0 6:3.485664 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/databases-programme-profile/
+40 qid:52 1:3608.0 2:2.85423 3:0.018838903 4:2.8613195 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/about-the-faculty/departments/department-of-computer-science/
+40 qid:52 1:3608.0 2:2.85423 3:0.018838903 4:2.8613195 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/about-the-faculty/departments/department-of-computer-science/
+5 qid:52 1:184.0 2:2.8094964 3:0.018838903 4:2.7999587 5:6.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/current_Teaching/
+10 qid:52 1:1560.0 2:2.7520604 3:0.018838903 4:2.7590914 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/undergraduate-programmes/mathematics-computer-science-programme-profile/
+10 qid:52 1:1432.0 2:2.7877512 3:0.018838903 4:2.7590914 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/undergraduate-programmes/computer-science-programme-profile/
+# Q53 - Distributed+Systems+in+Internet
+50 qid:53 1:1304.0 2:2.8305488 3:0.018838903 4:6.182874 5:12.0 6:3.061174 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/distributed-systems-in-internet-programme-profile/
+50 qid:53 1:1304.0 2:2.8305488 3:0.018838903 4:6.182874 5:12.0 6:3.061174 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/distributed-systems-in-internet-programme-profile/
+5 qid:53 1:1176.0 2:2.7033298 3:0.018838903 4:5.7659655 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/databases-programme-profile/
+10 qid:53 1:1176.0 2:2.7033298 3:0.018838903 4:5.7659655 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/databases-programme-profile/
+35 qid:53 1:3608.0 2:2.632797 3:0.018838903 4:5.3648825 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/about-the-faculty/departments/department-of-computer-science/
+40 qid:53 1:3608.0 2:2.632797 3:0.018838903 4:5.3648825 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/about-the-faculty/departments/department-of-computer-science/
+5 qid:53 1:920.0 2:2.3764896 3:0.018838903 4:5.3563733 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+# Q54 - Modern+Methods+in+Teaching+Computer+Science
+50 qid:54 1:1176.0 2:2.6526675 3:0.018838903 4:8.913609 5:12.0 6:2.4950073 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-computer-science/
+50 qid:54 1:1176.0 2:2.6526675 3:0.018838903 4:8.913609 5:12.0 6:2.4950073 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-computer-science/
+40 qid:54 1:1176.0 2:2.6710348 3:0.018838903 4:8.9118185 5:11.0 6:2.6005745 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics/
+40 qid:54 1:1176.0 2:2.6710348 3:0.018838903 4:8.9118185 5:11.0 6:2.6005745 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics/
+35 qid:54 1:1304.0 2:2.6850958 3:0.018838903 4:8.889182 5:13.0 6:2.3976762 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+35 qid:54 1:1304.0 2:2.6850958 3:0.018838903 4:8.889182 5:13.0 6:2.3976762 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+5 qid:54 1:920.0 2:2.6514115 3:0.018838903 4:8.863173 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+# Q55 - Software+Engineering
+50 qid:55 1:1304.0 2:1.1691852 3:0.018838903 4:2.9486394 5:10.0 6:2.0244122 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/software-engineering-programme-profile/
+50 qid:55 1:1304.0 2:1.1691852 3:0.018838903 4:2.9486394 5:10.0 6:2.0244122 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/software-engineering-programme-profile/
+40 qid:55 1:1560.0 2:1.1398635 3:0.018838903 4:2.9478006 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/undergraduate-programmes/information-engineering-programme-profile/
+40 qid:55 1:1560.0 2:1.1398635 3:0.018838903 4:2.9478006 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/undergraduate-programmes/information-engineering-programme-profile/
+35 qid:55 1:3608.0 2:1.130706 3:0.018838903 4:2.8849 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/about-the-faculty/departments/department-of-computer-science/
+35 qid:55 1:3608.0 2:1.130706 3:0.018838903 4:2.8849 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/about-the-faculty/departments/department-of-computer-science/
+40 qid:55 1:408.0 2:1.0506222 3:0.018838903 4:2.8402472 5:8.0 6:2.2206306 # http://www.cs.ubbcluj.ro/blockvorlesung-software-engineering/
+# Q56 - Applied+Computational+Intelligence
+50 qid:56 1:1432.0 2:1.7914516 3:0.018838903 4:7.3293324 5:11.0 6:2.6417298 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-computational-intelligence-programme-profile/
+50 qid:56 1:1432.0 2:1.7914516 3:0.018838903 4:7.3293324 5:11.0 6:2.6417298 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-computational-intelligence-programme-profile/
+10 qid:56 1:1432.0 2:1.681421 3:0.018838903 4:6.897935 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/doctoral-programmes/phd-supervisors/
+10 qid:56 1:1432.0 2:1.681421 3:0.018838903 4:6.897935 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/doctoral-programmes/phd-supervisors/
+5 qid:56 1:2072.0 2:1.6377069 3:0.018838903 4:6.618205 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/research/accredited-research-centers-groups/
+5 qid:56 1:2072.0 2:1.6377069 3:0.018838903 4:6.618205 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/research/accredited-research-centers-groups/
+3 qid:56 1:920.0 2:1.7179835 3:0.018838903 4:6.569865 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+# Q57 - High+Performance+Computing+and+Big+Data+Analytics
+50 qid:57 1:1560.0 2:2.5731006 3:0.018838903 4:15.495716 5:14.0 6:2.165541 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/high-performance-computing-and-big-data-analytics-programme-profile/
+50 qid:57 1:1560.0 2:2.5731006 3:0.018838903 4:15.495716 5:14.0 6:2.165541 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/high-performance-computing-and-big-data-analytics-programme-profile/
+3 qid:57 1:664.0 2:2.5545564 3:0.1282602 4:14.5199 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/mos/MOSHPC.pdf
+50 qid:57 1:3096.0 2:2.17696 3:0.018838903 4:13.695154 5:12.0 6:2.3413563 # http://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/calcul-de-inalta-performanta-si-analiza-volumelor-mari-de-date/
+50 qid:57 1:3096.0 2:2.17696 3:0.018838903 4:13.695154 5:12.0 6:2.3413563 # https://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/calcul-de-inalta-performanta-si-analiza-volumelor-mari-de-date/
+5 qid:57 1:920.0 2:2.252829 3:0.018838903 4:13.54812 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+5 qid:57 1:920.0 2:2.252829 3:0.018838903 4:13.493864 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+# Q58 - Data+Science+for+Industry+and+Society+MA
+50 qid:58 1:2072.0 2:1.6199518 3:0.018838903 4:11.933219 5:14.0 6:1.85302 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/data-science/
+50 qid:58 1:2072.0 2:1.6199518 3:0.018838903 4:11.933219 5:14.0 6:1.85302 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/data-science/
+10 qid:58 1:1304.0 2:1.525617 3:0.018838903 4:8.670597 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/postgraduate-training-programme-in-computer-science/
+10 qid:58 1:1304.0 2:1.525617 3:0.018838903 4:8.670597 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/postgraduate-training-programme-in-computer-science/
+5 qid:58 1:856.0 2:1.43115 3:0.018838903 4:8.572628 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/registration-for-unbreakable-romania-2022-continues/
+35 qid:58 1:1176.0 2:1.3835138 3:0.018838903 4:8.396774 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-mathematics-programme-profile/
+35 qid:58 1:1176.0 2:1.3835138 3:0.018838903 4:8.396774 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-mathematics-programme-profile/
+# Q59 - Sisteme+informatice+avansate
+5 qid:59 1:46.0 2:1.4072164 3:0.93597746 4:4.597019 5:8.0 6:2.2880304 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MMG9104.html
+10 qid:59 1:52.0 2:1.4053283 3:0.935978 4:4.590782 5:11.0 6:1.9976008 # https://www.cs.ubbcluj.ro/files/orar/2021-2/tabelar/MaSIA2.html
+3 qid:59 1:96.0 2:1.4310741 3:0.8313489 4:4.5660014 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/meda.html
+50 qid:59 1:3096.0 2:1.3658768 3:0.018838903 4:4.559152 5:11.0 6:1.9976008 # https://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/sisteme-informatice-avansate/
+50 qid:59 1:3096.0 2:1.3658768 3:0.018838903 4:4.559152 5:11.0 6:1.9976008 # http://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/sisteme-informatice-avansate/
+1 qid:59 1:504.0 2:1.4056119 3:0.83134884 4:4.494075 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/poho.html
+3 qid:59 1:216.0 2:1.4023339 3:0.9359769 4:4.481337 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/sach.html
+# Q60 - Enterprise+Software+Design+and+Development
+50 qid:60 1:1304.0 2:1.5130435 3:0.018838903 4:8.184698 5:13.0 6:2.302396 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/enterprise-software-design-and-development-programme-profile/
+50 qid:60 1:1304.0 2:1.5130435 3:0.018838903 4:8.184698 5:13.0 6:2.302396 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/enterprise-software-design-and-development-programme-profile/
+35 qid:60 1:1048.0 2:1.2207873 3:0.018838903 4:7.3808784 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/admission/masters-programmes/specialisations/
+35 qid:60 1:984.0 2:1.2352456 3:0.018838903 4:7.3791194 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/admission/masters-programmes/specialisations/
+10 qid:60 1:1560.0 2:1.1162623 3:0.018838903 4:7.33959 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/undergraduate-programmes/information-engineering-programme-profile/
+10 qid:60 1:1560.0 2:1.1162623 3:0.018838903 4:7.33959 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/undergraduate-programmes/information-engineering-programme-profile/
+5 qid:60 1:920.0 2:1.2500505 3:0.018838903 4:7.328747 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+# Q61 - Modern+Methods+in+Teaching+Computer+Science+Hungarian
+5 qid:61 1:920.0 2:2.6514115 3:0.018838903 4:12.031316 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+3 qid:61 1:920.0 2:2.6514115 3:0.018838903 4:12.025613 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+40 qid:61 1:1304.0 2:2.6850958 3:0.018838903 4:11.931668 5:13.0 6:2.3976762 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+40 qid:61 1:1304.0 2:2.6850958 3:0.018838903 4:11.931668 5:13.0 6:2.3976762 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+50 qid:61 1:1304.0 2:2.6107953 3:0.018838903 4:11.809869 5:13.0 6:2.3976762 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-computer-science-in-hungarian-programme-profile/
+50 qid:61 1:1304.0 2:2.6107953 3:0.018838903 4:11.809869 5:13.0 6:2.3976762 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-computer-science-in-hungarian-programme-profile/
+35 qid:61 1:1048.0 2:2.6003268 3:0.018838903 4:11.805178 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/admission/masters-programmes/specialisations/
+# Q62 - Data+Analysis+and+Modelling
+50 qid:62 1:1176.0 2:1.5672355 3:0.018838903 4:5.949654 5:12.0 6:2.0034626 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/data-analysis-and-modelling-programme-profile/
+50 qid:62 1:1176.0 2:1.5672355 3:0.018838903 4:5.949654 5:12.0 6:2.0034626 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/data-analysis-and-modelling-programme-profile/
+40 qid:62 1:1560.0 2:1.5599476 3:0.018838903 4:5.673888 5:14.0 6:1.85302 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/high-performance-computing-and-big-data-analytics-programme-profile/
+40 qid:62 1:1560.0 2:1.5599476 3:0.018838903 4:5.673888 5:14.0 6:1.85302 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/high-performance-computing-and-big-data-analytics-programme-profile/
+35 qid:62 1:2072.0 2:1.6199518 3:0.018838903 4:5.4590726 5:14.0 6:1.85302 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/data-science/
+35 qid:62 1:2072.0 2:1.6199518 3:0.018838903 4:5.4590726 5:14.0 6:1.85302 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/data-science/
+10 qid:62 1:1304.0 2:1.3653357 3:0.018838903 4:5.020552 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/software-engineering-programme-profile/
+# Q63 - Advanced+Mathematics
+50 qid:63 1:1304.0 2:2.5768664 3:0.018838903 4:4.0037174 5:10.0 6:3.0792813 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/advanced-mathematics-programme-profile/
+50 qid:63 1:1304.0 2:2.5768664 3:0.018838903 4:4.0037174 5:10.0 6:3.0792813 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/advanced-mathematics-programme-profile/
+35 qid:63 1:1304.0 2:2.6263168 3:0.018838903 4:3.9908938 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/optimization-of-computational-models-programme-profile/
+35 qid:63 1:1304.0 2:2.6263168 3:0.018838903 4:3.9908938 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/optimization-of-computational-models-programme-profile/
+10 qid:63 1:1432.0 2:2.6075425 3:0.018838903 4:3.9686449 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modeling-and-simulation-programme-profile/
+40 qid:63 1:1432.0 2:2.6075425 3:0.018838903 4:3.9686449 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-computational-intelligence-programme-profile/
+40 qid:63 1:1432.0 2:2.6075425 3:0.018838903 4:3.9686449 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-computational-intelligence-programme-profile/
+# Q64 - Modern+Methods
+50 qid:64 1:1176.0 2:2.6710348 3:0.018838903 4:4.6642094 5:11.0 6:2.6005745 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics/
+50 qid:64 1:1176.0 2:2.6710348 3:0.018838903 4:4.6642094 5:11.0 6:2.6005745 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics/
+40 qid:64 1:1304.0 2:2.6850958 3:0.018838903 4:4.6625595 5:13.0 6:2.3976762 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+40 qid:64 1:1304.0 2:2.6850958 3:0.018838903 4:4.6625595 5:13.0 6:2.3976762 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+50 qid:64 1:1176.0 2:2.6526675 3:0.018838903 4:4.658192 5:12.0 6:2.4950073 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-computer-science/
+50 qid:64 1:1176.0 2:2.6526675 3:0.018838903 4:4.658192 5:12.0 6:2.4950073 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-computer-science/
+5 qid:64 1:920.0 2:2.6514115 3:0.018838903 4:4.570386 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+# Q65 - Modern+Methods+in+Teaching+Mathematics+Hungarian
+5 qid:65 1:920.0 2:2.6514115 3:0.018838903 4:10.520048 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+5 qid:65 1:920.0 2:2.6514115 3:0.018838903 4:10.519011 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+50 qid:65 1:1304.0 2:2.6850958 3:0.018838903 4:10.4550495 5:13.0 6:2.3976762 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+50 qid:65 1:1304.0 2:2.6850958 3:0.018838903 4:10.4550495 5:13.0 6:2.3976762 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+35 qid:65 1:1048.0 2:2.6003268 3:0.018838903 4:10.302375 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/admission/masters-programmes/specialisations/
+35 qid:65 1:984.0 2:2.6127095 3:0.018838903 4:10.300997 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/admission/masters-programmes/specialisations/
+40 qid:65 1:1304.0 2:2.6335685 3:0.018838903 4:10.291912 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/didactic-mathematics-in-hungarian-programme-profile/
+# Q66 - Computational+Mathematics
+40 qid:66 1:1432.0 2:2.6447065 3:0.018838903 4:4.0285797 5:11.0 6:2.687467 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-computational-intelligence-programme-profile/
+40 qid:66 1:1432.0 2:2.6447065 3:0.018838903 4:4.0285797 5:11.0 6:2.687467 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-computational-intelligence-programme-profile/
+50 qid:66 1:1176.0 2:2.5932958 3:0.018838903 4:4.015676 5:10.0 6:2.8062017 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/computational-mathematics-programme-profile/
+50 qid:66 1:1176.0 2:2.5932958 3:0.018838903 4:4.015676 5:10.0 6:2.8062017 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/computational-mathematics-programme-profile/
+35 qid:66 1:1304.0 2:2.5955477 3:0.018838903 4:3.995953 5:12.0 6:2.5783725 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/optimization-of-computational-models-programme-profile/
+35 qid:66 1:1304.0 2:2.5955477 3:0.018838903 4:3.995953 5:12.0 6:2.5783725 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/optimization-of-computational-models-programme-profile/
+5 qid:66 1:920.0 2:2.5162654 3:0.018838903 4:3.8986382 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+# Q67 - Doctorat
+5 qid:67 1:408.0 2:1.8020246 3:0.9988764 4:1.8098093 5:8.0 6:2.177783 # http://www.cs.ubbcluj.ro/anunturi/anunturi-admitere/anunturi-admitere-doctorat/feed/
+10 qid:67 1:728.0 2:1.7879467 3:0.9552059 4:1.796577 5:8.0 6:2.177783 # http://www.cs.ubbcluj.ro/anunturi/sustineri-teze-doctorat/feed/
+10 qid:67 1:728.0 2:1.7879467 3:0.9550091 4:1.796577 5:8.0 6:2.177783 # https://www.cs.ubbcluj.ro/anunturi/sustineri-teze-doctorat/feed/
+35 qid:67 1:1816.0 2:1.7827034 3:0.018838903 4:1.7893662 5:8.0 6:2.177783 # http://www.cs.ubbcluj.ro/anunturi/anunturi-admitere/anunturi-admitere-doctorat/
+50 qid:67 1:2072.0 2:1.7782984 3:0.018838903 4:1.7850374 5:8.0 6:2.177783 # https://www.cs.ubbcluj.ro/anunturi/sustineri-teze-doctorat/
+50 qid:67 1:2072.0 2:1.7782984 3:0.018838903 4:1.7850374 5:8.0 6:2.177783 # http://www.cs.ubbcluj.ro/anunturi/sustineri-teze-doctorat/
+40 qid:67 1:1432.0 2:1.7601062 3:0.018838903 4:1.7702799 5:12.0 6:1.8241646 # http://www.cs.ubbcluj.ro/planificarea-candidatilor-pentru-concursul-de-admitere-la-doctorat-sesiunea-septembrie-2021/
+# Q68 - Information+Engineering
+50 qid:68 1:1560.0 2:1.103619 3:0.018838903 4:2.9233727 5:10.0 6:2.5482423 # http://www.cs.ubbcluj.ro/education/academic-programmes/undergraduate-programmes/information-engineering-programme-profile/
+50 qid:68 1:1560.0 2:1.103619 3:0.018838903 4:2.9233727 5:10.0 6:2.5482423 # https://www.cs.ubbcluj.ro/education/academic-programmes/undergraduate-programmes/information-engineering-programme-profile/
+40 qid:68 1:1304.0 2:0.96546274 3:0.018838903 4:2.7438073 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/software-engineering-programme-profile/
+40 qid:68 1:1304.0 2:0.96546274 3:0.018838903 4:2.7438073 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/software-engineering-programme-profile/
+10 qid:68 1:1304.0 2:0.9188297 3:0.018838903 4:2.609958 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/component-based-programming-programme-profile/
+10 qid:68 1:1304.0 2:0.9188297 3:0.018838903 4:2.609958 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/component-based-programming-programme-profile/
+5 qid:68 1:1304.0 2:0.96546274 3:0.018838903 4:2.5991788 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/enterprise-software-design-and-development-programme-profile/
+# Q69 - Informatica+didactica
+1 qid:69 1:792.0 2:0.99008906 3:0.25550172 4:2.5588815 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/gamma.html
+1 qid:69 1:920.0 2:1.0108262 3:0.48490477 4:2.5411158 5:3.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/7-I.html
+1 qid:69 1:920.0 2:0.9952296 3:0.48490477 4:2.530664 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/gamma.html
+1 qid:69 1:344.0 2:0.97419196 3:0.9359769 4:2.5237265 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/vadu.html
+1 qid:69 1:664.0 2:0.9717055 3:0.25550172 4:2.482986 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/e.html
+1 qid:69 1:280.0 2:0.9862184 3:0.48490477 4:2.4151568 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/A303.html
+1 qid:69 1:440.0 2:0.8615093 3:0.9359769 4:2.4133036 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/ansz.html
+# Q70 - Applied+Mathematics
+50 qid:70 1:1176.0 2:1.9503846 3:0.018838903 4:3.3549395 5:10.0 6:2.7584438 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-mathematics-programme-profile/
+50 qid:70 1:1176.0 2:1.9503846 3:0.018838903 4:3.3549395 5:10.0 6:2.7584438 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-mathematics-programme-profile/
+40 qid:70 1:2584.0 2:1.9363017 3:0.047669947 4:3.2925067 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/2001-1/WENDLAND.pdf
+5 qid:70 1:1048.0 2:1.9646324 3:0.018838903 4:3.2784443 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/239/0
+5 qid:70 1:1048.0 2:1.9646324 3:0.018838903 4:3.2784443 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/239/0
+5 qid:70 1:2584.0 2:1.9058183 3:0.13760254 4:3.2547805 5:0.0 6:0.0 # http://www.cs.ubbcluj.ro/~studia-m/2015-4/13BookReviews.pdf
+10 qid:70 1:1048.0 2:1.8549992 3:0.018838903 4:3.2540486 5:15.0 6:2.259345 # http://www.cs.ubbcluj.ro/weadl-2021-en/
+# Q71 - Matematica+didactica
+1 qid:71 1:792.0 2:1.9193822 3:0.25550172 4:3.4070148 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/gamma.html
+1 qid:71 1:920.0 2:1.9272789 3:0.48490477 4:3.3759675 5:3.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/7-I.html
+1 qid:71 1:920.0 2:1.9206725 3:0.48490477 4:3.3749554 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/gamma.html
+1 qid:71 1:440.0 2:1.903923 3:0.9359769 4:3.3737092 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/ansz.html
+1 qid:71 1:344.0 2:1.9007535 3:0.9359769 4:3.3698878 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/vadu.html
+1 qid:71 1:664.0 2:1.8982431 3:0.25550172 4:3.329217 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/e.html
+1 qid:71 1:84.0 2:1.8815938 3:0.48490477 4:3.273808 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/Obs.html
+# Q72 - Didactic+Mathematics+Hungarian
+50 qid:72 1:1304.0 2:0.99484265 3:0.018838903 4:5.4658074 5:12.0 6:1.9528136 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/didactic-mathematics-in-hungarian-programme-profile/
+50 qid:72 1:1304.0 2:0.99484265 3:0.018838903 4:5.4658074 5:12.0 6:1.9528136 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/didactic-mathematics-in-hungarian-programme-profile/
+35 qid:72 1:1048.0 2:0.9491573 3:0.018838903 4:5.4465756 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/admission/masters-programmes/specialisations/
+35 qid:72 1:984.0 2:0.95816576 3:0.018838903 4:5.4455576 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/admission/masters-programmes/specialisations/
+5 qid:72 1:920.0 2:0.8075364 3:0.018838903 4:5.3571424 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+5 qid:72 1:920.0 2:0.8075364 3:0.018838903 4:5.35634 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/2021-2022-academic-year-course-syllabi/
+40 qid:72 1:1304.0 2:0.84660256 3:0.018838903 4:5.27252 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modern-methods-in-teaching-mathematics-hungarian-programme-profile/
+# Q73 - Modeling+and+Simulation
+50 qid:73 1:1432.0 2:2.8763428 3:0.018838903 4:6.3774557 5:11.0 6:2.687467 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modeling-and-simulation-programme-profile/
+50 qid:73 1:1432.0 2:2.8763428 3:0.018838903 4:6.3774557 5:11.0 6:2.687467 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/modeling-and-simulation-programme-profile/
+40 qid:73 1:112.0 2:2.744218 3:0.19696547 4:6.065874 5:1.0 6:0.0 # http://www.cs.ubbcluj.ro/mos/
+35 qid:73 1:76.0 2:2.626618 3:0.19696547 4:5.8307824 5:1.0 6:0.0 # http://www.cs.ubbcluj.ro/mos/research.html
+35 qid:73 1:664.0 2:2.446253 3:0.1282602 4:5.7972355 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/mos/MOSHPC.pdf
+10 qid:73 1:1176.0 2:2.3909688 3:0.018838903 4:5.712511 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/data-analysis-and-modelling-programme-profile/
+10 qid:73 1:1176.0 2:2.3909688 3:0.018838903 4:5.712511 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/data-analysis-and-modelling-programme-profile/
+# Q74 - Optimization+of+Computational+Models
+50 qid:74 1:1304.0 2:2.5777688 3:0.018838903 4:8.00641 5:12.0 6:2.3676672 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/optimization-of-computational-models-programme-profile/
+50 qid:74 1:1304.0 2:2.5777688 3:0.018838903 4:8.00641 5:12.0 6:2.3676672 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/optimization-of-computational-models-programme-profile/
+5 qid:74 1:2072.0 2:2.3945658 3:0.018838903 4:7.4718056 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/research/accredited-research-centers-groups/
+5 qid:74 1:2072.0 2:2.3945658 3:0.018838903 4:7.4718056 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/research/accredited-research-centers-groups/
+10 qid:74 1:664.0 2:2.4691617 3:0.1282602 4:7.2413626 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/mos/MOSHPC.pdf
+35 qid:74 1:1304.0 2:2.2288926 3:0.018838903 4:6.787903 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/component-based-programming-programme-profile/
+35 qid:74 1:1304.0 2:2.2288926 3:0.018838903 4:6.787903 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/component-based-programming-programme-profile/
+# Q75 - Component+Based+Programming
+50 qid:75 1:1304.0 2:2.8830752 3:0.018838903 4:7.5743227 5:11.0 6:3.1906967 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/component-based-programming-programme-profile/
+50 qid:75 1:1304.0 2:2.8830752 3:0.018838903 4:7.5743227 5:11.0 6:3.1906967 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/component-based-programming-programme-profile/
+5 qid:75 1:16408.0 2:3.0439057 3:0.06940805 4:7.1306763 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/~avescan/publications/AndreeaVescan_PhDThesis_Abstract.pdf
+10 qid:75 1:2072.0 2:2.139803 3:0.018838903 4:5.702713 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/research/accredited-research-centers-groups/
+10 qid:75 1:2072.0 2:2.139803 3:0.018838903 4:5.702713 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/research/accredited-research-centers-groups/
+40 qid:75 1:1304.0 2:1.3757287 3:0.018838903 4:5.4309454 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/admission/doctoral-programmes/criteria-topics-computer-science/
+35 qid:75 1:3608.0 2:1.2526884 3:0.018838903 4:5.365719 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/about-the-faculty/departments/department-of-computer-science/
+# Q76 - Intelligent+Systems
+50 qid:76 1:1048.0 2:2.8467047 3:0.018838903 4:4.7712383 5:10.0 6:2.993118 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/intelligent-systems-programme-profile/
+50 qid:76 1:1048.0 2:2.8467047 3:0.018838903 4:4.7712383 5:10.0 6:2.993118 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/intelligent-systems-programme-profile/
+40 qid:76 1:920.0 2:2.3739126 3:0.018838903 4:4.198698 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/szenkovits-annamaria-doktori-ertekezesenek-vedese-model-based-testing-for-reactive-systems-intelligent-approaches/
+40 qid:76 1:920.0 2:2.3739126 3:0.018838903 4:4.198698 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/szenkovits-annamaria-doktori-ertekezesenek-vedese-model-based-testing-for-reactive-systems-intelligent-approaches/
+35 qid:76 1:1432.0 2:2.4766557 3:0.018838903 4:4.1855006 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-computational-intelligence-programme-profile/
+35 qid:76 1:1432.0 2:2.4766557 3:0.018838903 4:4.1855006 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/applied-computational-intelligence-programme-profile/
+10 qid:76 1:1560.0 2:2.1198416 3:0.018838903 4:3.9806128 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/education/academic-programmes/undergraduate-programmes/information-engineering-programme-profile/
+# Q77 - Planuri+de+invatamant
+50 qid:77 1:1304.0 2:1.7950507 3:0.018838903 4:5.247762 5:8.0 6:3.2832294 # https://www.cs.ubbcluj.ro/invatamant/planuri-de-invatamant/
+50 qid:77 1:1304.0 2:1.7950507 3:0.018838903 4:5.2476273 5:8.0 6:3.2832294 # http://www.cs.ubbcluj.ro/invatamant/planuri-de-invatamant/
+40 qid:77 1:1560.0 2:1.0869372 3:0.018838903 4:4.8312616 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/invatamant/programe-academice/doctorat/oferta-scolii-doctorale/
+40 qid:77 1:1560.0 2:1.0869372 3:0.018838903 4:4.831121 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-academice/doctorat/oferta-scolii-doctorale/
+35 qid:77 1:1304.0 2:1.1504008 3:0.018838903 4:4.606241 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/pregatire-si-formare-profesionala-in-informatica/plan-de-invatamant/
+1 qid:77 1:184.0 2:0.0 3:0.935978 4:4.3287816 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/tabelar/MaMetModDidm1.html
+1 qid:77 1:68.0 2:0.0 3:0.93597746 4:4.2054276 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/XND1203.html
+# Q78 - Pregatire+si+formare+profesionala
+5 qid:78 1:504.0 2:5.7252502 3:0.9988764 4:12.723277 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-postuniversitar-informatica/feed/
+40 qid:78 1:1304.0 2:4.698547 3:0.018838903 4:11.914911 5:13.0 6:2.8141909 # http://www.cs.ubbcluj.ro/orarul-programului-postuniversitar-de-pregatire-si-formare-profesionala-in-informatica-modulul-1-sem-2-an-univ-2021-2022/
+40 qid:78 1:1176.0 2:4.212188 3:0.018838903 4:11.422099 5:13.0 6:2.8141909 # http://www.cs.ubbcluj.ro/orarul-programului-postuniversitar-de-pregatire-si-formare-profesionala-in-informatica-modulul-2-sem-1-an-univ-2021-2022/
+40 qid:78 1:1176.0 2:4.212188 3:0.018838903 4:11.422099 5:13.0 6:2.8141909 # http://www.cs.ubbcluj.ro/orarul-programului-postuniversitar-de-pregatire-si-formare-profesionala-in-informatica-modulul-1-sem-1-an-univ-2021-2022/
+35 qid:78 1:1688.0 2:4.815015 3:0.018838903 4:11.026091 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-postuniversitar-informatica/
+50 qid:78 1:1304.0 2:0.0 3:0.018838903 4:7.6748977 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/pregatire-si-formare-profesionala-in-informatica/plan-de-invatamant/
+40 qid:78 1:1560.0 2:0.0 3:0.018838903 4:7.21075 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/pregatire-si-formare-profesionala-in-informatica/fisa-programului/
+# Q79 - Anunturi+postuniversitar+informatica
+35 qid:79 1:504.0 2:0.0 3:0.9988764 4:4.1494293 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-postuniversitar-informatica/feed/
+10 qid:79 1:312.0 2:0.0 3:0.9988764 4:3.877101 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-postuniversitar-informatica-si-dezvoltare-software/feed/
+10 qid:79 1:312.0 2:0.0 3:0.9552059 4:3.877101 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-postuniversitar-informatica-si-dezvoltare-software/feed/
+50 qid:79 1:1688.0 2:0.7347009 3:0.018838903 4:3.8660736 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-postuniversitar-informatica/
+40 qid:79 1:1560.0 2:0.7631885 3:0.018838903 4:3.5428314 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-postuniversitar-informatica-si-dezvoltare-software/
+40 qid:79 1:1560.0 2:0.7631885 3:0.018838903 4:3.5428314 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-postuniversitar-informatica-si-dezvoltare-software/
+5 qid:79 1:1944.0 2:0.6836628 3:0.018838903 4:3.4457061 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-licenta-si-disertatie/
+# Q80 - Securitatea+sistemelor+informatice
+1 qid:80 1:56.0 2:1.5983756 3:0.8313493 4:4.6656814 5:4.0 6:3.9751368 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MMG8157.html
+1 qid:80 1:152.0 2:1.5509064 3:0.8313496 4:4.5929418 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/MaSIA2.html
+35 qid:80 1:3096.0 2:1.3630264 3:0.018838903 4:4.5741177 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/sisteme-informatice-avansate/
+35 qid:80 1:3096.0 2:1.3630264 3:0.018838903 4:4.5741177 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/sisteme-informatice-avansate/
+1 qid:80 1:168.0 2:1.5432676 3:0.83134884 4:4.5504975 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/sumi.html
+50 qid:80 1:2328.0 2:1.5546787 3:0.018838903 4:4.4332113 5:8.0 6:3.2045474 # http://www.cs.ubbcluj.ro/cyber/
+50 qid:80 1:2328.0 2:1.5546787 3:0.018838903 4:4.4332113 5:8.0 6:3.2045474 # https://www.cs.ubbcluj.ro/cyber/
+# Q81 - Conversie+de+profesionala+matematica
+1 qid:81 1:200.0 2:0.0 3:0.83134884 4:6.99752 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/mosi.html
+1 qid:81 1:84.0 2:0.0 3:0.83134925 4:6.8643575 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLR7005.html
+1 qid:81 1:1432.0 2:0.0 3:0.8313496 4:6.7116613 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/MI1.html
+1 qid:81 1:792.0 2:0.0 3:0.8313496 4:6.6158667 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/MIE1.html
+1 qid:81 1:1944.0 2:0.0 3:0.8313496 4:6.5186586 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/I1.html
+1 qid:81 1:1944.0 2:0.0 3:0.8313496 4:6.5171795 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/IE1.html
+50 qid:81 1:1816.0 2:1.6563406 3:0.018838903 4:6.234543 5:10.0 6:3.0792813 # https://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/program-de-conversie-profesionala-matematica/
+# Q82 - Informatica+si+dezvoltare+software+maghiara
+1 qid:82 1:15384.0 2:1.0194576 3:0.8313489 4:7.164026 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/sali/Online.html
+1 qid:82 1:12312.0 2:1.020706 3:0.93597704 4:6.858815 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/sali/Online.html
+1 qid:82 1:600.0 2:0.9954641 3:0.25550172 4:6.727082 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/pi.html
+1 qid:82 1:600.0 2:0.9853091 3:0.48490477 4:6.70049 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/pi.html
+3 qid:82 1:1560.0 2:0.96742046 3:0.018838903 4:6.6931295 5:17.0 6:0.0 # https://www.cs.ubbcluj.ro/listele-cu-mediile-pentru-burse-pe-sem-2-an-univ-2021-2022/
+3 qid:82 1:1560.0 2:0.96742046 3:0.018838903 4:6.6931295 5:17.0 6:0.0 # http://www.cs.ubbcluj.ro/listele-cu-mediile-pentru-burse-pe-sem-2-an-univ-2021-2022/
+1 qid:82 1:248.0 2:0.9887026 3:0.9359779 4:6.560705 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/tabelar/index.html
+# Q83 - Anunturi+definitivat
+35 qid:83 1:24.0 2:0.0 3:0.9988764 4:3.3500032 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-definitivat/feed/
+35 qid:83 1:24.0 2:0.0 3:0.9552059 4:3.3500032 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-definitivat/feed/
+50 qid:83 1:1176.0 2:0.86365104 3:0.018838903 4:2.9397645 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-definitivat/
+50 qid:83 1:1176.0 2:0.86365104 3:0.018838903 4:2.9397645 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-definitivat/
+5 qid:83 1:1304.0 2:1.3204763 3:0.018838903 4:2.6214933 5:9.0 6:3.1314688 # http://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+5 qid:83 1:1304.0 2:1.3204763 3:0.018838903 4:2.6214933 5:9.0 6:3.1314688 # https://www.cs.ubbcluj.ro/anunturi/anunturi-personal-didactic-auxiliar/
+3 qid:83 1:1688.0 2:1.4928476 3:0.018838903 4:2.5240178 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/anunt-privind-concursul-pentru-acordarea-gradatiilor-de-merit-personalului-didactic-auxiliar-septembrie-2021/
+# Q84 - Definitivat+tematica
+5 qid:84 1:1304.0 2:1.1533352 3:0.018838903 4:5.2120223 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/admitere/nivel-licenta/tematica-admitere-facultate/
+3 qid:84 1:2072.0 2:0.9814261 3:0.018838903 4:4.881029 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/consultatii-admitere-2021/
+3 qid:84 1:2072.0 2:0.9814261 3:0.018838903 4:4.881029 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/consultatii-admitere-2021/
+3 qid:84 1:1944.0 2:1.0064281 3:0.018838903 4:4.881029 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/consultatii-admitere-2022/
+10 qid:84 1:1688.0 2:1.0604589 3:0.018838903 4:4.8702135 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/tematica-informatica-admitere/
+35 qid:84 1:3096.0 2:0.8187157 3:0.018838903 4:4.7606707 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/admitere/nivel-doctorat/criterii-tematica-matematica/
+35 qid:84 1:1688.0 2:1.0604589 3:0.018838903 4:4.7204614 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/admitere/nivel-doctorat/criterii-tematica-informatica/
+# Q85 - Gradul+II
+10 qid:85 1:84.0 2:1.722922 3:0.9988764 4:2.6324792 5:8.0 6:2.7119 # http://www.cs.ubbcluj.ro/anunturi/anunturi-gradul-ii/feed/
+35 qid:85 1:1304.0 2:1.6841589 3:0.018838903 4:2.524497 5:11.0 6:2.3676667 # http://www.cs.ubbcluj.ro/calendarul-pregatirilor-pentru-gradul-didactic-ii/
+50 qid:85 1:1304.0 2:1.6668622 3:0.018838903 4:2.5136302 5:8.0 6:2.7119 # http://www.cs.ubbcluj.ro/anunturi/anunturi-gradul-ii/
+40 qid:85 1:1688.0 2:1.5724629 3:0.018838903 4:2.4661856 5:8.0 6:2.7119 # http://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/gradul-ii/bibliografie-gradul-ii/
+5 qid:85 1:1560.0 2:1.7789364 3:0.018838903 4:2.45924 5:8.0 6:2.7119 # http://www.cs.ubbcluj.ro/anunturi/anunturi-gradul-i/
+3 qid:85 1:1176.0 2:1.6811134 3:0.018838903 4:2.431882 5:10.0 6:2.4722722 # https://www.cs.ubbcluj.ro/comisii-gradul-i-2020-2022/
+3 qid:85 1:1176.0 2:1.6811134 3:0.018838903 4:2.4218047 5:10.0 6:2.4722722 # http://www.cs.ubbcluj.ro/comisii-gradul-i-2018-2020/
+# Q86 - Gradul+I
+10 qid:86 1:344.0 2:1.8282529 3:0.9988764 4:2.5050468 5:8.0 6:2.7119 # http://www.cs.ubbcluj.ro/anunturi/anunturi-gradul-i/feed/
+50 qid:86 1:1560.0 2:1.7789364 3:0.018838903 4:2.4396527 5:8.0 6:2.7119 # http://www.cs.ubbcluj.ro/anunturi/anunturi-gradul-i/
+10 qid:86 1:1176.0 2:1.6811134 3:0.018838903 4:2.3287334 5:10.0 6:2.4722722 # http://www.cs.ubbcluj.ro/comisii-gradul-i-2018-2020/
+35 qid:86 1:1176.0 2:1.6811134 3:0.018838903 4:2.3287334 5:10.0 6:2.4722722 # http://www.cs.ubbcluj.ro/comisii-gradul-i-2019-2021/
+3 qid:86 1:1176.0 2:1.6811134 3:0.018838903 4:2.3287334 5:10.0 6:2.4722722 # http://www.cs.ubbcluj.ro/comisii-gradul-i-2016-2018/
+5 qid:86 1:1176.0 2:1.6811134 3:0.018838903 4:2.3287334 5:10.0 6:2.4722722 # http://www.cs.ubbcluj.ro/comisii-gradul-i-2017-2019/
+40 qid:86 1:1176.0 2:1.6811134 3:0.018838903 4:2.3287334 5:10.0 6:2.4722722 # http://www.cs.ubbcluj.ro/comisii-gradul-i-2020-2022/
+# Q87 - Tematica+Gradul+I
+5 qid:87 1:1304.0 2:3.8986611 3:0.018838903 4:6.1551304 5:13.0 6:2.5252423 # http://www.cs.ubbcluj.ro/admitere/nivel-licenta/tematica-admitere-facultate/
+50 qid:87 1:536.0 2:3.9660625 3:0.09601312 4:6.1213045 5:0.0 6:0.0 # http://www.cs.ubbcluj.ro/wp-content/uploads/tematica-informatica-gradul-I.pdf
+10 qid:87 1:1688.0 2:3.519034 3:0.018838903 4:5.87474 5:14.0 6:2.4304304 # http://www.cs.ubbcluj.ro/tematica-informatica-admitere/
+3 qid:87 1:2072.0 2:3.974184 3:0.018838903 4:5.8611455 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/consultatii-admitere-2021/
+3 qid:87 1:2072.0 2:3.974184 3:0.018838903 4:5.8611455 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/consultatii-admitere-2021/
+35 qid:87 1:3096.0 2:3.8787665 3:0.018838903 4:5.8413897 5:13.0 6:2.5252423 # http://www.cs.ubbcluj.ro/admitere/nivel-doctorat/criterii-tematica-matematica/
+3 qid:87 1:1944.0 2:4.013133 3:0.018838903 4:5.80619 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/consultatii-admitere-2022/
+# Q88 - Formare+Continua
+50 qid:88 1:1688.0 2:1.7113142 3:0.018838903 4:6.5797033 5:7.0 6:2.97061 # http://www.cs.ubbcluj.ro/invatamant/formare-continua/
+3 qid:88 1:1560.0 2:1.084178 3:0.4771024 4:5.4321966 5:1.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/views/Curriculum_vitae/CV-Europass-20210216-Avram-RO.pdf
+3 qid:88 1:1432.0 2:0.0 3:0.47711158 4:4.4189286 5:1.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/views/Curriculum_vitae/CV-Europass-20210216-Avram-EN.pdf
+5 qid:88 1:1304.0 2:1.5890777 3:0.018838903 4:4.240102 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-examenului-de-certificare-a-competentelor-profesionale-pentru-programul-postuniversitar-de-formare-si-dezvoltare-profesionala-continua-informatica-sesiunea-februarie-2022/
+5 qid:88 1:1304.0 2:1.5890777 3:0.018838903 4:4.240102 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-examenului-de-certificare-a-competentelor-profesionale-pentru-programul-postuniversitar-de-formare-si-dezvoltare-profesionala-continua-informatica-sesiunea-septembrie-2021/
+35 qid:88 1:1560.0 2:1.61531 3:0.018838903 4:4.075591 5:12.0 6:2.3676672 # http://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/pregatire-si-formare-profesionala-in-informatica/fisa-programului/
+50 qid:88 1:1688.0 2:1.5358555 3:0.018838903 4:3.9295218 5:12.0 6:2.3676672 # http://www.cs.ubbcluj.ro/examenul-de-certificare-a-competentelor-profesionale-pentru-programul-postuniversitar-de-formare-si-dezvoltare-profesionala-continua-informatica-sesiunea-februarie-2022/
+# Q89 - Cursuri+deschise
+10 qid:89 1:200.0 2:1.5422587 3:0.9988764 4:3.3889399 5:7.0 6:3.840723 # http://www.cs.ubbcluj.ro/cursuri-deschise/feed/
+35 qid:89 1:1688.0 2:1.6338202 3:0.018838903 4:3.2722511 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/formare-continua/
+50 qid:89 1:1432.0 2:1.4071039 3:0.018838903 4:3.1228743 5:7.0 6:3.840723 # http://www.cs.ubbcluj.ro/cursuri-deschise/
+40 qid:89 1:1432.0 2:1.2968671 3:0.018838903 4:2.8373098 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/porti-deschise-la-facultatea-de-matematica-si-informatica-cu-ocazia-saptamanii-scoala-altfel-din-scoli-si-licee/
+5 qid:89 1:1304.0 2:1.1539237 3:0.018838903 4:2.8140292 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/tabel-cu-studentii-care-au-depus-cerere-pentru-aprobarea-sesiunii-deschise-pentru-semestrul-i-an-univ-2021-2022/
+5 qid:89 1:1304.0 2:1.1539237 3:0.018838903 4:2.8140292 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/tabel-cu-studentii-care-au-depus-cerere-pentru-aprobarea-sesiunii-deschise-pentru-semestrul-i-an-univ-2021-2022/
+3 qid:89 1:984.0 2:1.4043825 3:0.018838903 4:2.7823772 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+# Q90 - Structura+anului+universitar
+50 qid:90 1:1432.0 2:1.3872646 3:0.018838903 4:4.33136 5:10.0 6:3.0792813 # http://www.cs.ubbcluj.ro/invatamant/structura-anului-universitar/
+50 qid:90 1:1432.0 2:1.3872646 3:0.018838903 4:4.33136 5:10.0 6:3.0792813 # https://www.cs.ubbcluj.ro/invatamant/structura-anului-universitar/
+5 qid:90 1:1560.0 2:1.4402092 3:0.018838903 4:4.134178 5:13.0 6:2.7189102 # http://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/pregatire-si-formare-profesionala-in-informatica/structura-anului-academic/
+40 qid:90 1:1944.0 2:1.2950587 3:0.018838903 4:4.0521703 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/anunt-cu-privire-la-derularea-activitatilor-administrative-in-anul-universitar-2021-2022/
+10 qid:90 1:1304.0 2:1.1376542 3:0.018838903 4:3.9234023 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/solutionarea-contestatiilor-depuse-la-acordarea-burselor-in-semestrul-i-al-anului-universitar-2021-2022/
+10 qid:90 1:1176.0 2:1.1718655 3:0.018838903 4:3.9234023 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/solutionarea-contestatiilor-depuse-la-acordarea-burselor-in-semestrul-i-al-anului-universitar-2021-2022/
+35 qid:90 1:1304.0 2:1.1376542 3:0.018838903 4:3.8620195 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/deschiderea-anului-universitar-2020-2021-pentru-specializarea-informatica-in-limba-germana/
+# Q91 - Research+Journals
+50 qid:91 1:856.0 2:1.8018658 3:0.018838903 4:4.733095 5:8.0 6:2.4612277 # http://www.cs.ubbcluj.ro/research-journals/
+50 qid:91 1:856.0 2:1.8018658 3:0.018838903 4:4.733095 5:8.0 6:2.4612277 # https://www.cs.ubbcluj.ro/research-journals/
+5 qid:91 1:504.0 2:1.7362378 3:0.018838903 4:4.5956197 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/Journals/Year/
+10 qid:91 1:504.0 2:1.7362378 3:0.018838903 4:4.5956197 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/Journals/
+5 qid:91 1:504.0 2:1.7362378 3:0.018838903 4:4.5956197 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/Journals/Author/
+5 qid:91 1:504.0 2:1.7362378 3:0.018838903 4:4.5956197 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/Journals/Title/
+5 qid:91 1:504.0 2:1.7362378 3:0.018838903 4:4.5956197 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/Journals/importance/
+# Q92 - Studia+Universitatis+Babes+Bolyai
+10 qid:92 1:728.0 2:0.56101245 3:0.018838903 4:4.3949504 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/528
+10 qid:92 1:728.0 2:0.56101245 3:0.018838903 4:4.3949504 5:15.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/528/0
+5 qid:92 1:232.0 2:0.44505316 3:0.12511154 4:4.085612 5:3.0 6:1.1430255 # https://www.cs.ubbcluj.ro/~studia-m/2015-1/Cuprins2015_1.htm
+35 qid:92 1:408.0 2:0.4086065 3:0.018838903 4:4.07922 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/~studia-m/index.php/journal/about/editorialTeam
+35 qid:92 1:408.0 2:0.4086065 3:0.018838903 4:4.07922 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/about/editorialTeam
+3 qid:92 1:5656.0 2:0.4761817 3:0.11351225 4:4.0787334 5:6.0 6:0.0 # http://www.cs.ubbcluj.ro/kept2013/
+35 qid:92 1:232.0 2:0.44505316 3:0.018838903 4:4.046945 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/search/authors
+# Q93 - Conferences
+5 qid:93 1:280.0 2:2.8094628 3:0.018838903 4:2.8136997 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/Year/
+10 qid:93 1:280.0 2:2.8094628 3:0.018838903 4:2.8136997 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/
+5 qid:93 1:280.0 2:2.8094628 3:0.018838903 4:2.8136997 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/Author/
+5 qid:93 1:280.0 2:2.8094628 3:0.018838903 4:2.8136997 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/Title/
+5 qid:93 1:280.0 2:2.8094628 3:0.018838903 4:2.8136997 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/importance/
+3 qid:93 1:264.0 2:2.8190598 3:0.09178482 4:2.8136997 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/2012-2/02-preface-final.pdf
+5 qid:93 1:280.0 2:2.8094628 3:0.018838903 4:2.7948701 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/length/
+# Q94 - Conferinte
+5 qid:94 1:280.0 2:4.4353857 3:0.018838903 4:4.4440947 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/Year/
+10 qid:94 1:280.0 2:4.4353857 3:0.018838903 4:4.4440947 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/
+5 qid:94 1:280.0 2:4.4353857 3:0.018838903 4:4.4440947 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/Author/
+5 qid:94 1:280.0 2:4.4353857 3:0.018838903 4:4.4440947 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/Title/
+5 qid:94 1:280.0 2:4.4353857 3:0.018838903 4:4.4440947 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/importance/
+5 qid:94 1:280.0 2:4.4353857 3:0.018838903 4:4.3754873 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/length/
+5 qid:94 1:280.0 2:4.4353857 3:0.018838903 4:4.3754873 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/NConf/citations/
+# Q95 - Scoli+de+vara
+5 qid:95 1:1560.0 2:0.0 3:0.018838903 4:3.4127157 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/in-vizita-virtuala-la-facultatea-de-matematica-si-informatica-cu-ocazia-saptamanii-scoala-altfel-din-scoli-si-licee-4/
+5 qid:95 1:1560.0 2:0.0 3:0.018838903 4:3.4125416 5:15.0 6:0.0 # https://www.cs.ubbcluj.ro/in-vizita-virtuala-la-facultatea-de-matematica-si-informatica-cu-ocazia-saptamanii-scoala-altfel-din-scoli-si-licee-4/
+5 qid:95 1:1560.0 2:0.0 3:0.018838903 4:3.412452 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/in-vizita-virtuala-la-facultatea-de-matematica-si-informatica-cu-ocazia-saptamanii-scoala-altfel-din-scoli-si-licee-3/
+10 qid:95 1:1432.0 2:0.0 3:0.018838903 4:3.4116616 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/porti-deschise-la-facultatea-de-matematica-si-informatica-cu-ocazia-saptamanii-scoala-altfel-din-scoli-si-licee/
+3 qid:95 1:600.0 2:0.0 3:0.9988764 4:3.2134395 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-practica-nivel-master/feed/
+3 qid:95 1:600.0 2:0.0 3:0.9988764 4:3.2134395 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-practica-nivel-master/feed/
+3 qid:95 1:664.0 2:0.0 3:0.9988764 4:3.206897 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/mobilitati-internationale/feed/
+# Q96 - Summer+schools
+35 qid:96 1:344.0 2:3.0598345 3:0.955009 4:6.1526403 5:8.0 6:2.354635 # https://www.cs.ubbcluj.ro/summer-schools/feed/
+35 qid:96 1:344.0 2:3.0598345 3:0.9988764 4:6.1526403 5:8.0 6:2.354635 # http://www.cs.ubbcluj.ro/summer-schools/feed/
+50 qid:96 1:1048.0 2:2.948736 3:0.018838903 4:5.8624535 5:8.0 6:2.354635 # http://www.cs.ubbcluj.ro/summer-schools/
+50 qid:96 1:1048.0 2:2.948736 3:0.018838903 4:5.8624535 5:8.0 6:2.354635 # https://www.cs.ubbcluj.ro/summer-schools/
+40 qid:96 1:920.0 2:2.817501 3:0.018838903 4:5.245572 5:12.0 6:1.9723 # https://www.cs.ubbcluj.ro/summer-school-on-domain-specific-languages/
+10 qid:96 1:792.0 2:2.628919 3:0.018838903 4:5.2246084 5:17.0 6:1.6395264 # https://www.cs.ubbcluj.ro/mapping-class-groups-3-and-4-manifolds-summer-school-july-27-august-1-2015-babes-bolyai-university-cluj-napoca/
+40 qid:96 1:920.0 2:2.817501 3:0.018838903 4:5.195305 5:12.0 6:1.9723 # http://www.cs.ubbcluj.ro/summer-school-on-domain-specific-languages/
+# Q97 - Centre+de+cercetare
+50 qid:97 1:3352.0 2:1.187264 3:0.018838903 4:3.5146194 5:11.0 6:3.0523357 # http://www.cs.ubbcluj.ro/cercetare/grupuri-de-cercetare/
+50 qid:97 1:3352.0 2:1.187264 3:0.018838903 4:3.5145574 5:11.0 6:3.0523357 # https://www.cs.ubbcluj.ro/cercetare/grupuri-de-cercetare/
+10 qid:97 1:2072.0 2:1.1467509 3:0.018838903 4:3.431799 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/metodologia-pentru-reacreditarea-grupurilor-laboratoarelor-de-cercetare-din-facultatea-de-matematica-si-informatica/
+35 qid:97 1:1304.0 2:1.131947 3:0.018838903 4:3.2512975 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/sustinerea-online-a-proiectelor-de-cercetare-in-vederea-obtinerii-burselor-speciale-pentru-activitatea-stiintifica-pentru-anul-universitar-2021-2022/
+35 qid:97 1:1304.0 2:1.131947 3:0.018838903 4:3.2511954 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/sustinerea-online-a-proiectelor-de-cercetare-in-vederea-obtinerii-burselor-speciale-pentru-activitatea-stiintifica-pentru-anul-universitar-2021-2022/
+10 qid:97 1:1176.0 2:1.1659865 3:0.018838903 4:3.22814 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/metodologia-privind-continuarea-activitatii-cadrelor-didactice-si-de-cercetare-dupa-implinirea-varstei-de-pensionare/
+40 qid:97 1:1304.0 2:1.131947 3:0.018838903 4:3.22814 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/regulament-structuri-cercetare-fmi-acreditate-ubb/
+# Q98 - Comunicari+stiintifice
+3 qid:98 1:536.0 2:6.2529163 3:0.018838903 4:9.753614 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/coordination/
+3 qid:98 1:40.0 2:5.3603687 3:0.19069314 4:8.843008 5:0.0 6:0.0 # http://www.cs.ubbcluj.ro/~florin/frame_menu.html
+40 qid:98 1:1304.0 2:4.355174 3:0.5760407 4:7.819473 5:6.0 6:4.313254 # http://www.cs.ubbcluj.ro/scss/
+1 qid:98 1:504.0 2:0.0 3:0.83134884 4:4.466864 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/poho.html
+1 qid:98 1:264.0 2:0.0 3:0.9359769 4:4.2829885 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/luan.html
+1 qid:98 1:184.0 2:0.0 3:0.83134884 4:4.242273 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/cate.html
+1 qid:98 1:64.0 2:0.0 3:0.83134925 4:4.212822 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MMG3150.html
+# Q99 - Inscriere+alumni
+3 qid:99 1:2584.0 2:4.21374 3:0.018838903 4:4.9288273 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/intrebari-frecvente-admitere-nivel-licenta-2021/
+3 qid:99 1:2584.0 2:4.21374 3:0.018838903 4:4.9288273 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/intrebari-frecvente-admitere-nivel-licenta-2021/
+1 qid:99 1:1816.0 2:3.33297 3:0.018838903 4:4.111573 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+1 qid:99 1:1816.0 2:3.33297 3:0.018838903 4:4.111573 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+5 qid:99 1:1304.0 2:3.7221775 3:0.5760407 4:3.4811788 5:6.0 6:0.0 # http://www.cs.ubbcluj.ro/scss/
+10 qid:99 1:1560.0 2:2.4718468 3:0.018838903 4:3.4427948 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/manual-proceduri/
+10 qid:99 1:1560.0 2:2.4718468 3:0.018838903 4:3.4427948 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/manual-proceduri/
+# Q100 - Alumni
+40 qid:100 1:312.0 2:1.3523263 3:0.018838903 4:1.410589 5:6.0 6:2.878196 # https://www.cs.ubbcluj.ro/alumni-2/
+40 qid:100 1:312.0 2:1.3523263 3:0.018838903 4:1.410589 5:6.0 6:2.878196 # http://www.cs.ubbcluj.ro/alumni-2/
+10 qid:100 1:84.0 2:1.2972409 3:0.955009 4:1.4050024 5:7.0 6:2.7316055 # https://www.cs.ubbcluj.ro/mitteilungen/alumni-anzeigen/feed/
+10 qid:100 1:84.0 2:1.2972409 3:0.9988764 4:1.4050024 5:7.0 6:2.7316055 # http://www.cs.ubbcluj.ro/mitteilungen/alumni-anzeigen/feed/
+50 qid:100 1:344.0 2:1.2925849 3:0.018838903 4:1.3821392 5:7.0 6:2.7316055 # http://www.cs.ubbcluj.ro/mitteilungen/alumni-anzeigen/
+10 qid:100 1:664.0 2:1.3220919 3:0.955009 4:1.3795373 5:7.0 6:2.7316055 # https://www.cs.ubbcluj.ro/anunturi/anunturi-alumni/feed/
+10 qid:100 1:664.0 2:1.3220919 3:0.9988764 4:1.3795373 5:7.0 6:2.7316055 # http://www.cs.ubbcluj.ro/anunturi/anunturi-alumni/feed/
+# Q101 - Intalniri+ale+absolventilor
+50 qid:101 1:1304.0 2:0.0 3:0.018838903 4:7.767106 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/absolventi/intalniri-ale-absolventilor/
+50 qid:101 1:1304.0 2:0.0 3:0.018838903 4:7.767106 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/absolventi/intalniri-ale-absolventilor/
+3 qid:101 1:1304.0 2:0.0 3:0.018838903 4:4.2807903 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-absolventilor-la-examenul-de-disertatie-sesiunea-iunie-iulie-2021/
+3 qid:101 1:1304.0 2:0.0 3:0.018838903 4:4.2807903 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-absolventilor-la-examenul-de-disertatie-sesiunea-septembrie-2021/
+1 qid:101 1:1304.0 2:0.0 3:0.018838903 4:4.2807903 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/festivitatea-de-premiere-a-absolventilor-liniei-de-studii-in-limba-germana-a-universitatii-babes-bolyai/
+3 qid:101 1:1304.0 2:0.0 3:0.018838903 4:4.2807903 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-absolventilor-la-examenul-de-disertatie-sesiunea-iunie-iulie-2021/
+1 qid:101 1:1304.0 2:0.0 3:0.018838903 4:4.2807903 5:15.0 6:0.0 # https://www.cs.ubbcluj.ro/festivitatea-de-premiere-a-absolventilor-liniei-de-studii-in-limba-germana-a-universitatii-babes-bolyai/
+# Q102 - Povesti+de+succes
+35 qid:102 1:728.0 2:0.0 3:0.955009 4:5.827023 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/povesti-de-succes/feed/
+35 qid:102 1:728.0 2:0.0 3:0.9988764 4:5.827023 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/povesti-de-succes/feed/
+40 qid:102 1:1304.0 2:0.0 3:0.018838903 4:5.0683165 5:21.0 6:0.0 # https://www.cs.ubbcluj.ro/povesti-de-succes-un-it-ist-din-cluj-are-o-calitate-a-vietii-mai-buna-decat-unul-din-berlin-sau-munchen/
+40 qid:102 1:1304.0 2:0.0 3:0.018838903 4:5.029019 5:21.0 6:0.0 # http://www.cs.ubbcluj.ro/povesti-de-succes-un-it-ist-din-cluj-are-o-calitate-a-vietii-mai-buna-decat-unul-din-berlin-sau-munchen/
+50 qid:102 1:1944.0 2:0.0 3:0.018838903 4:4.5189385 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/povesti-de-succes/
+50 qid:102 1:1944.0 2:0.0 3:0.018838903 4:4.5187545 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/povesti-de-succes/
+10 qid:102 1:1304.0 2:0.0 3:0.018838903 4:2.1191142 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/berlin-drumul-spre-succes-al-unui-absolvent-de-mate-info-din-cluj-napoca/
+# Q103 - Legislatie+nationala
+5 qid:103 1:64.0 2:0.0 3:0.9988764 4:9.035439 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-studenti/feed/
+10 qid:103 1:144.0 2:0.0 3:0.9988764 4:8.762596 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-generala/feed/
+5 qid:103 1:200.0 2:0.0 3:0.9988764 4:8.49382 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-institutiile-de-invatamant-superior/feed/
+5 qid:103 1:376.0 2:0.0 3:0.9988764 4:8.0518 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-de-referinta/feed/
+5 qid:103 1:376.0 2:0.0 3:0.9988764 4:8.0518 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-organizarea-studiilor/feed/
+5 qid:103 1:472.0 2:0.0 3:0.9988764 4:7.6978617 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-personalul-didactic/feed/
+35 qid:103 1:472.0 2:0.0 3:0.9988764 4:6.8679943 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/feed/
+# Q104 - Legislatie+de+referinta
+35 qid:104 1:376.0 2:0.0 3:0.9988764 4:10.366402 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-de-referinta/feed/
+50 qid:104 1:1560.0 2:0.0 3:0.018838903 4:7.3726053 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-de-referinta/
+5 qid:104 1:64.0 2:0.0 3:0.9988764 4:5.7496324 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-studenti/feed/
+10 qid:104 1:144.0 2:0.0 3:0.9988764 4:5.6572833 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-generala/feed/
+5 qid:104 1:200.0 2:0.0 3:0.9988764 4:5.5571346 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-institutiile-de-invatamant-superior/feed/
+5 qid:104 1:376.0 2:0.0 3:0.9988764 4:5.352863 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-organizarea-studiilor/feed/
+5 qid:104 1:472.0 2:0.0 3:0.9988764 4:5.1803756 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-personalul-didactic/feed/
+# Q105 - Legislatie+generala
+35 qid:105 1:144.0 2:0.0 3:0.9988764 4:10.716972 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-generala/feed/
+50 qid:105 1:1304.0 2:0.0 3:0.018838903 4:7.2772546 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-generala/
+5 qid:105 1:64.0 2:0.0 3:0.9988764 4:5.230599 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-studenti/feed/
+5 qid:105 1:200.0 2:0.0 3:0.9988764 4:4.986828 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-institutiile-de-invatamant-superior/feed/
+5 qid:105 1:376.0 2:0.0 3:0.9988764 4:4.781143 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-de-referinta/feed/
+5 qid:105 1:376.0 2:0.0 3:0.9988764 4:4.781143 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-organizarea-studiilor/feed/
+5 qid:105 1:472.0 2:0.0 3:0.9988764 4:4.612053 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-personalul-didactic/feed/
+# Q106 - Legislatie+studenti
+35 qid:106 1:64.0 2:0.0 3:0.9988764 4:6.5900216 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-studenti/feed/
+10 qid:106 1:144.0 2:0.0 3:0.9988764 4:5.1089306 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-generala/feed/
+5 qid:106 1:200.0 2:0.0 3:0.9988764 4:4.986828 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-institutiile-de-invatamant-superior/feed/
+50 qid:106 1:1304.0 2:0.0 3:0.018838903 4:4.9072084 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-studenti/
+5 qid:106 1:376.0 2:0.0 3:0.9988764 4:4.781143 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-de-referinta/feed/
+5 qid:106 1:376.0 2:0.0 3:0.9988764 4:4.781143 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-organizarea-studiilor/feed/
+5 qid:106 1:472.0 2:0.0 3:0.9988764 4:4.612053 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-personalul-didactic/feed/
+# Q107 - Legislatie+invatamant+superior
+35 qid:107 1:200.0 2:0.0 3:0.9988764 4:9.945593 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-institutiile-de-invatamant-superior/feed/
+50 qid:107 1:1432.0 2:0.0 3:0.018838903 4:7.3056436 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-institutiile-de-invatamant-superior/
+5 qid:107 1:376.0 2:0.0 3:0.9988764 4:6.4552736 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-organizarea-studiilor/feed/
+5 qid:107 1:472.0 2:0.0 3:0.9988764 4:6.262471 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-personalul-didactic/feed/
+5 qid:107 1:472.0 2:0.0 3:0.9988764 4:5.2470512 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/feed/
+5 qid:107 1:64.0 2:0.0 3:0.9988764 4:5.230599 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-studenti/feed/
+10 qid:107 1:144.0 2:0.0 3:0.9988764 4:5.1089306 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-generala/feed/
+# Q108 - Legislatie+personal+didactic
+10 qid:108 1:144.0 2:0.0 3:0.9988764 4:6.472844 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-generala/feed/
+35 qid:108 1:1304.0 2:0.0 3:0.018838903 4:5.8781905 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-generala/
+35 qid:108 1:472.0 2:0.0 3:0.9988764 4:5.699071 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-personalul-didactic/feed/
+5 qid:108 1:1304.0 2:0.0 3:0.018838903 4:5.636242 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-studenti/
+35 qid:108 1:1432.0 2:0.0 3:0.018838903 4:5.483085 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-institutiile-de-invatamant-superior/
+35 qid:108 1:1688.0 2:0.0 3:0.018838903 4:5.4345083 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-personalul-didactic/
+35 qid:108 1:1560.0 2:0.0 3:0.018838903 4:5.338087 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-de-referinta/
+# Q109 - Legislatie+organizarea+studiilor
+10 qid:109 1:376.0 2:0.0 3:0.9988764 4:8.282466 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-organizarea-studiilor/feed/
+50 qid:109 1:1560.0 2:0.0 3:0.018838903 4:6.8232393 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-organizarea-studiilor/
+35 qid:109 1:1304.0 2:0.0 3:0.018838903 4:5.4301596 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-studenti/
+40 qid:109 1:1304.0 2:0.0 3:0.018838903 4:5.4301596 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-generala/
+35 qid:109 1:1432.0 2:0.0 3:0.018838903 4:5.257569 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-privind-institutiile-de-invatamant-superior/
+5 qid:109 1:64.0 2:0.0 3:0.9988764 4:5.230599 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/legislatie-studenti/feed/
+5 qid:109 1:472.0 2:0.0 3:0.9988764 4:5.1398787 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/legislatie-nationala/feed/
+# Q110 - Reglementari+interne
+35 qid:110 1:280.0 2:0.0 3:0.9988764 4:6.4535284 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-universitatii/feed/
+35 qid:110 1:664.0 2:0.0 3:0.9988764 4:5.547162 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-facultatii/feed/
+50 qid:110 1:1560.0 2:0.0 3:0.018838903 4:4.5499907 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-universitatii/
+40 qid:110 1:1944.0 2:0.0 3:0.018838903 4:4.189413 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-facultatii/
+10 qid:110 1:1560.0 2:0.0 3:0.018838903 4:1.5160568 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/manual-proceduri/
+10 qid:110 1:1560.0 2:0.0 3:0.018838903 4:1.5160568 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/manual-proceduri/
+3 qid:110 1:376.0 2:0.0 3:0.018838903 4:1.4609541 5:6.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/current_Teaching/SO1g/infoCurs/
+# Q111 - Conducerea+facultatii
+3 qid:111 1:2840.0 2:1.1791165 3:0.018838903 4:4.127772 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+3 qid:111 1:2840.0 2:1.1791165 3:0.018838903 4:4.127772 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+1 qid:111 1:1816.0 2:1.3385072 3:0.018838903 4:3.7353766 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/repartizarea-fondului-de-burse-pentru-semestrul-ii-al-anului-universitar-2021-2022/
+3 qid:111 1:1816.0 2:1.3385072 3:0.018838903 4:3.65273 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+5 qid:111 1:1944.0 2:1.3162658 3:0.018838903 4:3.65273 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-facultatii/
+3 qid:111 1:1816.0 2:1.3385072 3:0.018838903 4:3.65273 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+50 qid:111 1:1432.0 2:1.582984 3:0.018838903 4:3.5155587 5:7.0 6:3.4504488 # https://www.cs.ubbcluj.ro/despre-facultate/conducerea/conducerea-facultatii/
+# Q112 - Reprezentanti+in+senat
+50 qid:112 1:1176.0 2:0.0 3:0.018838903 4:1.6489472 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/conducerea/reprezentantii-in-senat/
+1 qid:112 1:56.0 2:0.0 3:0.9359769 4:1.5237241 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/poho.html
+1 qid:112 1:60.0 2:0.0 3:0.9359769 4:1.5205212 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/pead.html
+1 qid:112 1:96.0 2:0.0 3:0.9359769 4:1.5108101 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/nivi.html
+1 qid:112 1:76.0 2:0.0 3:0.9359769 4:1.5078448 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/crse.html
+1 qid:112 1:120.0 2:0.0 3:0.83134884 4:1.4770732 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/pead.html
+1 qid:112 1:152.0 2:0.0 3:0.83134884 4:1.4644501 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/sach.html
+# Q113 - Consiliul+facultatii
+5 qid:113 1:664.0 2:1.6987855 3:0.9988764 4:4.761545 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-facultatii/feed/
+1 qid:113 1:84.0 2:1.370618 3:0.9359769 4:4.5595226 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/goan.html
+1 qid:113 1:168.0 2:1.3103127 3:0.83134884 4:4.370411 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/goan.html
+35 qid:113 1:1944.0 2:1.5634985 3:0.018838903 4:3.898993 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-facultatii/
+1 qid:113 1:504.0 2:1.1142168 3:0.93597704 4:3.7220325 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/sali/2-I.html
+1 qid:113 1:600.0 2:1.0685277 3:0.8313489 4:3.57068 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/sali/2-I.html
+3 qid:113 1:2840.0 2:0.5460603 3:0.018838903 4:3.4932423 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+# Q114 - Comisiile+Consiliul+facultatii
+5 qid:114 1:664.0 2:0.0 3:0.9988764 4:4.761545 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-facultatii/feed/
+35 qid:114 1:1944.0 2:0.68645453 3:0.018838903 4:4.5905266 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-facultatii/
+1 qid:114 1:84.0 2:0.0 3:0.9359769 4:4.5595226 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/goan.html
+1 qid:114 1:168.0 2:0.0 3:0.83134884 4:4.370411 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/goan.html
+40 qid:114 1:1304.0 2:0.83072674 3:0.018838903 4:4.120298 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/conducerea/consiliul-facultatii/
+3 qid:114 1:2840.0 2:0.55219495 3:0.018838903 4:4.0501013 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+3 qid:114 1:2840.0 2:0.55219495 3:0.018838903 4:4.0501013 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+# Q115 - Directorii
+50 qid:115 1:1304.0 2:1.3285801 3:0.018838903 4:1.5132179 5:9.0 6:3.7151399 # http://www.cs.ubbcluj.ro/despre-facultate/conducerea/directorii-si-consiliile-departamentelor/
+3 qid:115 1:1688.0 2:1.06317 3:0.018838903 4:1.0689498 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/hotarare-privind-calendarul-elaborarii-lucrarilor-de-licenta-disertatie-pentru-studentii-care-vor-finaliza-studiile-incepand-cu-anul-2022/
+3 qid:115 1:1688.0 2:1.06317 3:0.018838903 4:1.0689498 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/hotarare-privind-calendarul-elaborarii-lucrarilor-de-licenta-disertatie-pentru-studentii-care-vor-finaliza-studiile-incepand-cu-anul-2022/
+5 qid:115 1:2072.0 2:0.98393524 3:0.018838903 4:0.98981863 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/scoala-clujeana-de-matematica-traditie-si-modernitate/
+10 qid:115 1:984.0 2:0.9301731 3:0.018838903 4:0.91399294 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+10 qid:115 1:984.0 2:0.9301731 3:0.018838903 4:0.91399294 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+1 qid:115 1:1176.0 2:0.8689512 3:0.018838903 4:0.87415683 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/subiecte-definitivat-2012/
+# Q116 - Conducere+Doctorat
+5 qid:116 1:1176.0 2:4.529101 3:0.018838903 4:6.6131473 5:12.0 6:3.2627044 # http://www.cs.ubbcluj.ro/evaluarea-activitatii-profesionale-a-cadrelor-didactice-si-cercetatorilor-de-catre-conducere/
+10 qid:116 1:1560.0 2:3.6410096 3:0.018838903 4:5.196239 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-universitatii/
+3 qid:116 1:280.0 2:5.0278554 3:0.9988764 4:4.9877367 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/reglementari-interne-ale-universitatii/feed/
+1 qid:116 1:1688.0 2:2.4635975 3:0.018838903 4:4.0011797 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/anunt-privind-concursul-pentru-acordarea-gradatiilor-de-merit-personalului-didactic-auxiliar-septembrie-2021/
+1 qid:116 1:1688.0 2:2.4635975 3:0.018838903 4:4.0011797 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/anunt-privind-concursul-pentru-acordarea-gradatiilor-de-merit-personalului-didactic-auxiliar-septembrie-2021/
+35 qid:116 1:2072.0 2:2.2155032 3:0.018838903 4:3.7039888 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/istoric/invatamantul-universitar-in-transilvania/
+3 qid:116 1:3864.0 2:1.507194 3:0.018838903 4:2.8964753 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/informatica-didactica-in-limba-romana/
+# Q117 - Secretariatul+facultatii
+1 qid:117 1:440.0 2:1.1586126 3:0.9988764 4:3.8419983 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-tabere/feed/
+1 qid:117 1:440.0 2:1.1586126 3:0.9988764 4:3.8419983 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-tabere/feed/
+5 qid:117 1:2840.0 2:0.8536813 3:0.018838903 4:3.802098 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+5 qid:117 1:2840.0 2:0.8536813 3:0.018838903 4:3.802098 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/burse-semestrul-ii-an-universitar-2021-2022/
+3 qid:117 1:344.0 2:0.0 3:0.018838903 4:3.4088695 5:4.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/resources/WDO/mq/2013-2014/
+3 qid:117 1:1816.0 2:1.0322108 3:0.018838903 4:3.342576 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+3 qid:117 1:1816.0 2:1.0322108 3:0.018838903 4:3.342576 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/calendarul-examenului-de-finalizare-a-studiilor-sesiunea-iulie-2018/
+# Q118 - Centrul+de+cercetare
+50 qid:118 1:3352.0 2:1.2782496 3:0.018838903 4:3.5300508 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/cercetare/grupuri-de-cercetare/
+50 qid:118 1:3352.0 2:1.2782496 3:0.018838903 4:3.5299888 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/cercetare/grupuri-de-cercetare/
+35 qid:118 1:1304.0 2:1.1457348 3:0.018838903 4:3.2651312 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/sustinerea-online-a-proiectelor-de-cercetare-in-vederea-obtinerii-burselor-speciale-pentru-activitatea-stiintifica-pentru-anul-universitar-2021-2022/
+35 qid:118 1:1304.0 2:1.1457348 3:0.018838903 4:3.2650292 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/sustinerea-online-a-proiectelor-de-cercetare-in-vederea-obtinerii-burselor-speciale-pentru-activitatea-stiintifica-pentru-anul-universitar-2021-2022/
+35 qid:118 1:2072.0 2:0.9749586 3:0.018838903 4:3.260029 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/metodologia-pentru-reacreditarea-grupurilor-laboratoarelor-de-cercetare-din-facultatea-de-matematica-si-informatica/
+10 qid:118 1:1304.0 2:1.4224368 3:0.018838903 4:3.2591743 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/alina-calin-co-fondatoare-mira-rehab-si-doctorand-al-facultatii-de-matematica-si-informatica-din-nou-in-centrul-presei-internationale-si-autohtone/
+10 qid:118 1:1304.0 2:1.4224368 3:0.018838903 4:3.2591743 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/alina-calin-co-fondatoare-mira-rehab-si-doctorand-al-facultatii-de-matematica-si-informatica-din-nou-in-centrul-presei-internationale-si-autohtone/
+# Q119 - Observatorul
+50 qid:119 1:2584.0 2:1.5397295 3:0.018838903 4:1.5718102 5:11.0 6:3.400754 # http://www.cs.ubbcluj.ro/observatorul-astronomic-al-universitatii-babes-bolyai/
+3 qid:119 1:168.0 2:1.3209877 3:0.16134125 4:1.3242297 5:0.0 6:0.0 # http://www.cs.ubbcluj.ro/wp-content/uploads/orgranigrama_FMI_2017.pdf
+40 qid:119 1:1432.0 2:1.2929077 3:0.018838903 4:1.2707937 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/porti-deschise-la-facultatea-de-matematica-si-informatica-cu-ocazia-saptamanii-scoala-altfel-din-scoli-si-licee/
+1 qid:119 1:312.0 2:1.2283387 3:0.8313489 4:1.2322345 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/sali/legenda.html
+1 qid:119 1:312.0 2:1.2283387 3:0.93597704 4:1.2322345 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/sali/legenda.html
+35 qid:119 1:7704.0 2:1.1730467 3:0.018838903 4:1.1794901 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/istoric/momente-din-istoria-facultatii-de-matematica/
+1 qid:119 1:472.0 2:1.1395359 3:0.25550172 4:1.1277716 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/legenda.html
+# Q120 - Planuri+strategice
+3 qid:120 1:152.0 2:0.0 3:0.12477436 4:5.920239 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/~erasmus/despre.htm
+40 qid:120 1:1304.0 2:1.7950507 3:0.018838903 4:1.7826166 5:8.0 6:3.2832294 # http://www.cs.ubbcluj.ro/invatamant/planuri-de-invatamant/
+40 qid:120 1:1304.0 2:1.7950507 3:0.018838903 4:1.7826166 5:8.0 6:3.2832294 # https://www.cs.ubbcluj.ro/invatamant/planuri-de-invatamant/
+35 qid:120 1:184.0 2:1.545086 3:0.9988764 4:1.6754959 5:11.0 6:2.8664746 # http://www.cs.ubbcluj.ro/planuri-stategice-operationale-si-rapoarte-anuale/feed/
+50 qid:120 1:1432.0 2:1.4028078 3:0.018838903 4:1.5193272 5:11.0 6:2.8664746 # http://www.cs.ubbcluj.ro/planuri-stategice-operationale-si-rapoarte-anuale/
+10 qid:120 1:1432.0 2:1.4028078 3:0.018838903 4:1.3910217 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/conducerea/conducerea-facultatii/
+10 qid:120 1:1432.0 2:1.4028078 3:0.018838903 4:1.3910217 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/conducerea/conducerea-facultatii/
+# Q121 - Organigrama
+5 qid:121 1:984.0 2:0.9301731 3:0.018838903 4:0.91399294 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+5 qid:121 1:984.0 2:0.9301731 3:0.018838903 4:0.91399294 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+1 qid:121 1:1176.0 2:0.8689512 3:0.018838903 4:0.87415683 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/subiecte-definitivat-2012/
+3 qid:121 1:1176.0 2:0.8689512 3:0.018838903 4:0.87415683 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-definitivat/
+3 qid:121 1:1176.0 2:0.8689512 3:0.018838903 4:0.87415683 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/montran-2022-internship-program/
+5 qid:121 1:1176.0 2:0.8689512 3:0.018838903 4:0.87415683 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/calendar-concursuri/
+40 qid:121 1:1176.0 2:0.8689512 3:0.018838903 4:0.87415683 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/conducerea/reprezentantii-in-senat/
+# Q122 - Biblioteca+Centrala
+35 qid:122 1:1432.0 2:1.6884208 3:0.018838903 4:2.839026 5:10.0 6:3.3316646 # http://www.cs.ubbcluj.ro/despre-facultate/dotari-si-facilitati/biblioteci/biblioteca-de-matematica-si-informatica/
+10 qid:122 1:984.0 2:1.5585454 3:0.018838903 4:2.7759433 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+10 qid:122 1:984.0 2:1.5585454 3:0.018838903 4:2.7759433 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+40 qid:122 1:1560.0 2:1.6407397 3:0.018838903 4:2.7714982 5:8.0 6:3.6545897 # http://www.cs.ubbcluj.ro/despre-facultate/dotari-si-facilitati/biblioteci/biblioteca-de-astronomie/
+1 qid:122 1:1176.0 2:1.5223813 3:0.018838903 4:2.7156408 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/subiecte-definitivat-2012/
+3 qid:122 1:1176.0 2:1.5223813 3:0.018838903 4:2.7156408 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-definitivat/
+3 qid:122 1:1176.0 2:1.5223813 3:0.018838903 4:2.7156408 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/montran-2022-internship-program/
+# Q123 - Biblioteca+Matematica+si+Informatica
+5 qid:123 1:1560.0 2:1.4548647 3:0.018838903 4:5.1472597 5:17.0 6:0.0 # https://www.cs.ubbcluj.ro/listele-cu-mediile-pentru-burse-pe-sem-2-an-univ-2021-2022/
+5 qid:123 1:1560.0 2:1.4548647 3:0.018838903 4:5.1472597 5:17.0 6:0.0 # http://www.cs.ubbcluj.ro/listele-cu-mediile-pentru-burse-pe-sem-2-an-univ-2021-2022/
+3 qid:123 1:1304.0 2:1.4991901 3:0.018838903 4:5.031988 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+3 qid:123 1:1304.0 2:1.4991901 3:0.018838903 4:5.031988 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+1 qid:123 1:1304.0 2:1.4991901 3:0.018838903 4:5.0249906 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-studentilor-pentru-proba-1-evaluarea-cunostintelor-fundamentale-si-de-specialitate-a-examenului-de-licenta-sesiunea-iunie-iulie-2021/
+1 qid:123 1:1432.0 2:1.4766948 3:0.018838903 4:5.0249906 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-studentilor-pentru-proba-1-evaluarea-cunostintelor-fundamentale-si-de-specialitate-a-examenului-de-licenta-sesiunea-iunie-iulie-2021/
+3 qid:123 1:1304.0 2:1.4991901 3:0.018838903 4:4.9893665 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiuna-iunie-iulie-2021/
+# Q124 - Biblioteca+Astronomie
+50 qid:124 1:1560.0 2:1.6407397 3:0.018838903 4:3.044866 5:8.0 6:3.6545897 # http://www.cs.ubbcluj.ro/despre-facultate/dotari-si-facilitati/biblioteci/biblioteca-de-astronomie/
+40 qid:124 1:2584.0 2:1.301002 3:0.018838903 4:2.500549 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/observatorul-astronomic-al-universitatii-babes-bolyai/
+35 qid:124 1:1432.0 2:1.6884208 3:0.018838903 4:2.4161675 5:10.0 6:3.3316646 # http://www.cs.ubbcluj.ro/despre-facultate/dotari-si-facilitati/biblioteci/biblioteca-de-matematica-si-informatica/
+10 qid:124 1:984.0 2:1.5585454 3:0.018838903 4:2.3451645 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+10 qid:124 1:984.0 2:1.5585454 3:0.018838903 4:2.3451645 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+3 qid:124 1:1816.0 2:1.4130852 3:0.018838903 4:2.3233113 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/a-xxxvi-a-conferinta-nationala-didactica-matematicii-reghin-14-mai-2022/
+1 qid:124 1:1816.0 2:1.4130852 3:0.018838903 4:2.3233113 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/program-de-conversie-profesionala-matematica/
+# Q125 - Laboratoare+de+informatica
+5 qid:125 1:472.0 2:4.884476 3:0.16681206 4:5.0424943 5:0.0 6:0.0 # http://www.cs.ubbcluj.ro/wp-content/uploads/Hotarare-CDI-15.03.2017.pdf
+50 qid:125 1:1432.0 2:3.7184963 3:0.018838903 4:4.6131396 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/inaugurarea-laboratoarelor-ebs-si-mhp-porsche-la-facultatea-de-matematica-si-informatica/
+50 qid:125 1:1432.0 2:3.7184963 3:0.018838903 4:4.613044 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/inaugurarea-laboratoarelor-ebs-si-mhp-porsche-la-facultatea-de-matematica-si-informatica/
+5 qid:125 1:248.0 2:3.6464572 3:0.018838903 4:4.5616856 5:6.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/current_Teaching/SO1/
+5 qid:125 1:152.0 2:4.48777 3:0.018838903 4:4.510521 5:4.0 6:4.831853 # https://www.cs.ubbcluj.ro/~octavian.cret/Laboratoare/
+1 qid:125 1:76.0 2:3.9916077 3:0.059880037 4:4.2005353 5:3.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/views/presentations/2006_04April_06_CNDM.pdf
+5 qid:125 1:664.0 2:3.8741398 3:0.018838903 4:4.0731573 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/~dianat/sgbd.php
+# Q126 - Calcul+de+inalta+performanta
+5 qid:126 1:54.0 2:1.4463167 3:0.935978 4:10.075592 5:9.0 6:2.3769305 # https://www.cs.ubbcluj.ro/files/orar/2021-2/tabelar/MaCIP2.html
+5 qid:126 1:56.0 2:1.4456705 3:0.93597746 4:10.074834 5:15.0 6:1.860847 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MME9011.html
+5 qid:126 1:96.0 2:1.4734722 3:0.9359769 4:10.022133 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/nivi.html
+5 qid:126 1:128.0 2:1.465463 3:0.25550172 4:9.96108 5:3.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/MOS-S15.html
+5 qid:126 1:376.0 2:1.4062253 3:0.9359779 4:9.790174 5:9.0 6:2.3769305 # https://www.cs.ubbcluj.ro/files/orar/2021-2/grafic/MaCIP2.html
+5 qid:126 1:184.0 2:1.3214072 3:0.8313496 4:9.536174 5:9.0 6:2.3769305 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/MaCIP1.html
+5 qid:126 1:472.0 2:1.3227314 3:0.7839042 4:9.459066 5:9.0 6:2.3769305 # https://www.cs.ubbcluj.ro/files/orar/2021-1/grafic/MaCIP1.html
+# Q127 - Internet+of+things
+50 qid:127 1:1432.0 2:1.0473647 3:0.018838903 4:2.5028539 5:10.0 6:2.6406066 # http://www.cs.ubbcluj.ro/iotlab/
+40 qid:127 1:920.0 2:1.0701396 3:0.018838903 4:2.3482661 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/register-for-the-iot-club/
+40 qid:127 1:856.0 2:1.0804929 3:0.018838903 4:2.3463447 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/register-for-the-iot-club/
+5 qid:127 1:1304.0 2:1.2151247 3:0.018838903 4:2.185835 5:12.0 6:2.4262216 # http://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/distributed-systems-in-internet-programme-profile/
+5 qid:127 1:1304.0 2:1.2151247 3:0.018838903 4:2.185835 5:12.0 6:2.4262216 # https://www.cs.ubbcluj.ro/education/academic-programmes/masters-programmes/distributed-systems-in-internet-programme-profile/
+35 qid:127 1:1432.0 2:0.9939476 3:0.018838903 4:2.1681786 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/news-announcements/
+35 qid:127 1:1432.0 2:0.9939476 3:0.018838903 4:2.1681786 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/news-announcements/
+# Q128 - Firme+partnere
+50 qid:128 1:984.0 2:1.4952457 3:0.018838903 4:1.5986946 5:7.0 6:3.840723 # https://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+50 qid:128 1:984.0 2:1.4952457 3:0.018838903 4:1.5986946 5:7.0 6:3.840723 # http://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+3 qid:128 1:1304.0 2:1.5923116 3:0.5760406 4:1.5967505 5:6.0 6:0.0 # http://www.cs.ubbcluj.ro/scss/
+40 qid:128 1:1432.0 2:1.4774461 3:0.018838903 4:1.4823967 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/~practica/
+35 qid:128 1:1560.0 2:1.377574 3:0.018838903 4:1.3828905 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/predarea-documentelor-de-practica-ale-studentilor-nivel-master-in-perioada-suspendarilor-activitatilor-didactice-fata-in-fata/
+35 qid:128 1:1560.0 2:1.377574 3:0.018838903 4:1.3828905 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/predarea-documentelor-de-practica-ale-studentilor-nivel-master-in-perioada-suspendarilor-activitatilor-didactice-fata-in-fata/
+10 qid:128 1:2584.0 2:1.2084978 3:0.018838903 4:1.2144747 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/facultatea-de-matematica-si-informatica-rol-fundamental-in-dezvoltariea-informaticii-si-industriei-software-din-romania/
+# Q129 - Relatii
+# Q130 - Saptamana+portiilor+deschise
+5 qid:130 1:664.0 2:5.8112893 3:0.018838903 4:5.6904383 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/~dianat/sgbd.php
+5 qid:130 1:472.0 2:4.963052 3:0.018838903 4:4.8969374 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/~dianat/sda-online.php
+50 qid:130 1:1304.0 2:0.0 3:0.018838903 4:4.3904457 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/saptamana-portilor-deschise-la-facultatea-de-matematica-si-informatica/
+1 qid:130 1:280.0 2:4.3616805 3:0.70804423 4:4.2374077 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/
+3 qid:130 1:280.0 2:4.3616805 3:0.018838903 4:4.2374077 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/~diana.halita/teaching.php
+3 qid:130 1:312.0 2:4.2937 3:0.018838903 4:4.1729856 5:6.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/current_Teaching/SO1/infoLab/
+1 qid:130 1:14360.0 2:3.7941637 3:0.11479059 4:3.7553458 5:0.0 6:0.0 # http://www.cs.ubbcluj.ro/files/curricula/2014/planuri/licenta-2014-2017/Informatica%20germana%202014-2017.xlsx
+# Q131 - Societatea+de+stiinte+matematica
+5 qid:131 1:1304.0 2:0.0 3:0.5760406 4:5.389265 5:6.0 6:0.0 # http://www.cs.ubbcluj.ro/scss/
+35 qid:131 1:7704.0 2:1.0093553 3:0.018838903 4:3.659978 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/istoric/momente-din-istoria-facultatii-de-matematica/
+5 qid:131 1:1560.0 2:1.0863843 3:0.018838903 4:3.3722858 5:17.0 6:0.0 # http://www.cs.ubbcluj.ro/listele-cu-mediile-pentru-burse-pe-sem-2-an-univ-2021-2022/
+5 qid:131 1:1560.0 2:1.0863843 3:0.018838903 4:3.3718998 5:17.0 6:0.0 # https://www.cs.ubbcluj.ro/listele-cu-mediile-pentru-burse-pe-sem-2-an-univ-2021-2022/
+3 qid:131 1:1560.0 2:1.0863843 3:0.018838903 4:3.3618186 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/statistica-privind-repartizarea-pe-specializari-a-candidatilor-la-admiterea-2014/
+1 qid:131 1:1304.0 2:1.1498156 3:0.018838903 4:3.346692 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+1 qid:131 1:1304.0 2:1.1498156 3:0.018838903 4:3.346692 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+# Q132 - Concurs+elevi+de+liceu
+35 qid:132 1:664.0 2:3.0557692 3:0.9988764 4:8.454773 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/concursuri/concursuri-pentru-elevii-de-liceu/feed/
+50 qid:132 1:1944.0 2:2.784144 3:0.018838903 4:7.186202 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/concursuri/concursuri-pentru-elevii-de-liceu/
+40 qid:132 1:1432.0 2:2.2836938 3:0.018838903 4:5.907497 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/unbreakable-2021/
+40 qid:132 1:1432.0 2:2.2836938 3:0.018838903 4:5.907234 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/unbreakable-2021/
+10 qid:132 1:1304.0 2:2.0319805 3:0.018838903 4:5.7713647 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/concursul-de-securitate-cibernetica-acs-ixia-ctf/
+3 qid:132 1:664.0 2:2.3792815 3:0.9988764 4:5.48948 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/concursuri/concursuri-pentru-studenti/feed/
+3 qid:132 1:664.0 2:2.3792815 3:0.9988764 4:5.48948 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/concursuri/concursuri-pentru-studenti/feed/
+# Q133 - Magistri
+50 qid:133 1:1560.0 2:1.2710531 3:0.018838903 4:1.4681387 5:6.0 6:4.0468335 # http://www.cs.ubbcluj.ro/despre-facultate/istoric/magistri/
+5 qid:133 1:984.0 2:0.92969775 3:0.018838903 4:0.91352654 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+5 qid:133 1:984.0 2:0.92969775 3:0.018838903 4:0.91352654 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/relatia-cu-societatea/firme-partenere/
+3 qid:133 1:1176.0 2:0.86850727 3:0.018838903 4:0.8737109 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/subiecte-definitivat-2012/
+3 qid:133 1:1176.0 2:0.86850727 3:0.018838903 4:0.8737109 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/anunturi/anunturi-definitivat/
+3 qid:133 1:1176.0 2:0.86850727 3:0.018838903 4:0.8737109 5:9.0 6:0.0 # https://www.cs.ubbcluj.ro/montran-2022-internship-program/
+3 qid:133 1:1176.0 2:0.86850727 3:0.018838903 4:0.8737109 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/calendar-concursuri/
+# Q134 - In+Memoriam
+5 qid:134 1:104.0 2:0.13565367 3:0.018838903 4:1.5138754 5:10.0 6:1.051984 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/1521
+5 qid:134 1:136.0 2:0.12719344 3:0.018838903 4:1.4217296 5:10.0 6:1.051984 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/1521/pdf
+35 qid:134 1:984.0 2:0.121342376 3:0.018838903 4:1.4186752 5:6.0 6:1.2778008 # http://www.cs.ubbcluj.ro/magunkrol/tortenet/in-memoriam/
+50 qid:134 1:1304.0 2:0.12598714 3:0.018838903 4:1.3716704 5:7.0 6:1.2127208 # http://www.cs.ubbcluj.ro/despre-facultate/istoric/in-memoriam/
+5 qid:134 1:280.0 2:0.13548748 3:0.018838903 4:1.1499878 5:5.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/issue/view/43
+5 qid:134 1:3864.0 2:0.14847006 3:0.94748473 4:1.1016123 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/download/1521/pdf
+5 qid:134 1:440.0 2:0.13199057 3:0.018838903 4:1.0882726 5:5.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal
+# Q135 - invatamant+universitar+transilvania
+1 qid:135 1:68.0 2:5.0801344 3:0.93597746 4:5.3856907 5:11.0 6:3.400754 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/XND1203.html
+35 qid:135 1:1560.0 2:3.4467835 3:0.018838903 4:5.06903 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/invatamant/programe-academice/doctorat/oferta-scolii-doctorale/
+35 qid:135 1:1560.0 2:3.4467835 3:0.018838903 4:5.06903 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-academice/doctorat/oferta-scolii-doctorale/
+1 qid:135 1:184.0 2:4.8996177 3:0.935978 4:4.994723 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/tabelar/MaMetModDidm1.html
+40 qid:135 1:1304.0 2:0.0 3:0.018838903 4:4.840119 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/planuri-de-invatamant/
+10 qid:135 1:1304.0 2:0.0 3:0.018838903 4:4.840119 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-postuniversitare/pregatire-si-formare-profesionala-in-informatica/plan-de-invatamant/
+40 qid:135 1:1304.0 2:0.0 3:0.018838903 4:4.840119 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/invatamant/planuri-de-invatamant/
+# Q136 - Matematica+de+performante
+5 qid:136 1:536.0 2:0.0 3:0.018838903 4:4.453638 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/~hpcrg/
+35 qid:136 1:2072.0 2:1.3455769 3:0.018838903 4:4.2715573 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/scoala-clujeana-de-matematica-traditie-si-modernitate/
+10 qid:136 1:1560.0 2:0.0 3:0.018838903 4:3.259351 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/dotari-si-facilitati/laboratoarele-de-informatica/
+5 qid:136 1:2584.0 2:0.0 3:0.018838903 4:2.5104113 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/observatorul-astronomic-al-universitatii-babes-bolyai/
+40 qid:136 1:3096.0 2:0.0 3:0.018838903 4:2.4109037 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/calcul-de-inalta-performanta-si-analiza-volumelor-mari-de-date/
+40 qid:136 1:3096.0 2:0.0 3:0.018838903 4:2.4108534 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/calcul-de-inalta-performanta-si-analiza-volumelor-mari-de-date/
+3 qid:136 1:3096.0 2:0.0 3:0.018838903 4:2.410053 5:11.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-academice/masterat/sisteme-informatice-avansate/
+# Q137 - Momente+din+istorie
+50 qid:137 1:2072.0 2:0.6634115 3:0.018838903 4:6.7909102 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/istoric/invatamantul-universitar-in-transilvania/
+1 qid:137 1:232.0 2:0.0 3:0.91899866 4:5.7672963 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/grafic/Orar_Master_didactic_Info_ro_An2_Sem4.pdf
+1 qid:137 1:312.0 2:0.0 3:0.91898954 4:5.6901054 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/grafic/Orar_Master_didactic_Info_ro_An1_Sem2.pdf
+1 qid:137 1:264.0 2:0.0 3:0.6902304 4:5.342448 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/grafic/Orar_Master_didactic_Info_ro_An2_Sem.3.pdf
+10 qid:137 1:18456.0 2:0.23492098 3:0.018838903 4:4.8621016 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/istoric/matematica-de-performanta-la-universitatea-din-cluj/
+40 qid:137 1:536.0 2:0.0 3:0.018838903 4:4.723305 5:1.0 6:0.0 # https://www.cs.ubbcluj.ro/~pulse/about
+1 qid:137 1:280.0 2:0.0 3:0.7008204 4:4.4440947 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/grafic/Orar_Master_didactic_Info_ro_An1_Sem.1.pdf
+# Q138 - Scoala+clujeana
+3 qid:138 1:144.0 2:0.0 3:0.018838903 4:4.363294 5:5.0 6:0.0 # http://www.cs.ubbcluj.ro/~sanda/html/publications/bibtex/dragoss09watec/
+50 qid:138 1:2072.0 2:0.0 3:0.018838903 4:4.3315477 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/scoala-clujeana-de-matematica-traditie-si-modernitate/
+35 qid:138 1:1560.0 2:3.93588 3:0.018838903 4:3.5316937 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/invatamant/programe-academice/doctorat/oferta-scolii-doctorale/
+35 qid:138 1:1560.0 2:3.93588 3:0.018838903 4:3.5316937 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/invatamant/programe-academice/doctorat/oferta-scolii-doctorale/
+3 qid:138 1:728.0 2:0.0 3:0.018838903 4:3.2694006 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/528
+3 qid:138 1:728.0 2:0.0 3:0.018838903 4:3.2694006 5:15.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/528/0
+3 qid:138 1:920.0 2:0.0 3:0.06774472 4:3.1132975 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/2008-2/piscoran-nou.pdf
+# Q139 - Honoris+Causa
+50 qid:139 1:1048.0 2:1.3115366 3:0.018838903 4:2.734181 5:11.0 6:3.1906967 # http://www.cs.ubbcluj.ro/doctor-es-professor-honoris-causa-cimmel-kituntetettek/
+50 qid:139 1:1432.0 2:1.294879 3:0.018838903 4:2.6704054 5:10.0 6:3.3316646 # http://www.cs.ubbcluj.ro/doctori-si-profesori-honoris-causa/
+3 qid:139 1:664.0 2:1.1074991 3:0.49514693 4:2.2228677 5:4.0 6:0.0 # http://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/download/1281/pdf
+5 qid:139 1:1304.0 2:0.94583875 3:0.06587787 4:1.9009528 5:0.0 6:0.0 # http://www.cs.ubbcluj.ro/~studia-m/2007-4/introd.pdf
+3 qid:139 1:856.0 2:0.79838026 3:0.018838903 4:1.6051687 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/bosch-future-mobility-challenge-announcement-2/
+3 qid:139 1:856.0 2:0.79838026 3:0.018838903 4:1.6051687 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/redbee-react-native-and-reactjs-internship-2/
+1 qid:139 1:792.0 2:0.8185514 3:0.018838903 4:1.6051687 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/a-doktori-kepzesre-valo-online-felveteli-szabalyzata-2020/
+# Q140 - Contact
+1 qid:140 1:600.0 2:1.392343 3:0.018838903 4:1.3920265 5:15.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/438/0
+1 qid:140 1:600.0 2:1.392343 3:0.018838903 4:1.3920265 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/~studia-m/index.php/journal/article/view/438/0
+1 qid:140 1:1688.0 2:1.3818203 3:0.09017563 4:1.3850257 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/~studia-m/2012-1/08-Aggoun-final.pdf
+5 qid:140 1:128.0 2:1.3576486 3:0.018838903 4:1.3808112 5:3.0 6:3.546469 # http://www.cs.ubbcluj.ro/icfca14/contact/
+1 qid:140 1:104.0 2:1.3455282 3:0.018838903 4:1.3747641 5:2.0 6:3.7888088 # http://www.cs.ubbcluj.ro/~studia-m/index.php/journal/about/contact
+1 qid:140 1:96.0 2:1.3470244 3:0.018838903 4:1.3747641 5:6.0 6:2.9755094 # http://www.cs.ubbcluj.ro/~studia-i/journal/journal/about/contact
+1 qid:140 1:104.0 2:1.3455282 3:0.018838903 4:1.3747641 5:2.0 6:3.7888088 # https://www.cs.ubbcluj.ro/~studia-m/index.php/journal/about/contact
+# Q141 - Admitere+Licenta
+35 qid:141 1:4120.0 2:1.6730576 3:0.5891108 4:4.535904 5:0.0 6:0.0 # https://www.cs.ubbcluj.ro/wp-content/uploads/regulament-admitere-licenta-2021.pdf
+40 qid:141 1:2072.0 2:1.4589994 3:0.018838903 4:4.5011134 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+40 qid:141 1:2072.0 2:1.4589994 3:0.018838903 4:4.5011134 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+3 qid:141 1:1304.0 2:1.5492135 3:0.018838903 4:4.2830877 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+1 qid:141 1:1304.0 2:1.5492135 3:0.018838903 4:4.2830877 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/omects-40612011-privind-cadrul-general-de-organizare-si-desfasurare-a-admiterii-in-ciclurile-de-studii-universitare-de-licenta-master-si-doctorat-pentru-anul-universitar-20112012/
+3 qid:141 1:1304.0 2:1.5492135 3:0.018838903 4:4.2830877 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+3 qid:141 1:1304.0 2:1.5492135 3:0.018838903 4:4.2191854 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiuna-iunie-iulie-2021/
+# Q142 - Admitere+Master
+10 qid:142 1:440.0 2:1.5953133 3:0.9988764 4:3.142597 5:8.0 6:2.2483444 # http://www.cs.ubbcluj.ro/anunturi/anunturi-admitere/anunturi-admitere-master/feed/
+50 qid:142 1:1688.0 2:1.6034027 3:0.018838903 4:3.0630744 5:8.0 6:2.2483444 # http://www.cs.ubbcluj.ro/anunturi/anunturi-admitere/anunturi-admitere-master/
+40 qid:142 1:1432.0 2:1.5970626 3:0.018838903 4:3.0231202 5:15.0 6:1.678819 # http://www.cs.ubbcluj.ro/locuri-bugetate-si-cu-taxa-scoase-la-concursul-de-admitere-nivel-master-sesiunea-septembrie-2021/
+35 qid:142 1:1432.0 2:1.6119316 3:0.018838903 4:2.9978275 5:13.0 6:1.8098016 # https://www.cs.ubbcluj.ro/admitere/nivel-masterat/calendarul-concursului-de-admitere-nivel-master/
+35 qid:142 1:1432.0 2:1.6119316 3:0.018838903 4:2.9978275 5:13.0 6:1.8098016 # http://www.cs.ubbcluj.ro/admitere/nivel-masterat/calendarul-concursului-de-admitere-nivel-master/
+5 qid:142 1:1432.0 2:1.5795778 3:0.018838903 4:2.9895015 5:7.0 6:0.0 # http://www.cs.ubbcluj.ro/despre-facultate/conducerea/conducerea-facultatii/
+5 qid:142 1:1432.0 2:1.5795778 3:0.018838903 4:2.9784472 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/despre-facultate/conducerea/conducerea-facultatii/
+# Q143 - Calendar+Admitere+Licenta
+5 qid:143 1:2072.0 2:0.9741128 3:0.018838903 4:5.480429 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+5 qid:143 1:2072.0 2:0.9741128 3:0.018838903 4:5.480429 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+3 qid:143 1:1304.0 2:1.1048149 3:0.018838903 4:5.392668 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+1 qid:143 1:1304.0 2:1.1048149 3:0.018838903 4:5.392668 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/omects-40612011-privind-cadrul-general-de-organizare-si-desfasurare-a-admiterii-in-ciclurile-de-studii-universitare-de-licenta-master-si-doctorat-pentru-anul-universitar-20112012/
+3 qid:143 1:1304.0 2:1.1048149 3:0.018838903 4:5.392668 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiunea-septembrie-2021/
+3 qid:143 1:1304.0 2:1.1048149 3:0.018838903 4:5.3047 5:12.0 6:0.0 # https://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiuna-iunie-iulie-2021/
+3 qid:143 1:1304.0 2:1.1048149 3:0.018838903 4:5.3047 5:12.0 6:0.0 # http://www.cs.ubbcluj.ro/planificarea-sustinerii-lucrarilor-de-licenta-sesiuna-iunie-iulie-2021/
+# Q144 - Calendar+Admitere+Master
+3 qid:144 1:1176.0 2:1.2737446 3:0.018838903 4:4.1210527 5:7.0 6:2.7992084 # https://www.cs.ubbcluj.ro/studenti/calendar-concursuri/
+3 qid:144 1:1176.0 2:1.2737446 3:0.018838903 4:4.1210527 5:7.0 6:2.7992084 # http://www.cs.ubbcluj.ro/studenti/calendar-concursuri/
+35 qid:144 1:1432.0 2:1.0806489 3:0.018838903 4:4.108635 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/locuri-bugetate-si-cu-taxa-scoase-la-concursul-de-admitere-nivel-master-sesiunea-septembrie-2021/
+40 qid:144 1:1688.0 2:1.0353553 3:0.018838903 4:4.1034603 5:8.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/anunturi-admitere/anunturi-admitere-master/
+50 qid:144 1:1432.0 2:1.0806489 3:0.018838903 4:4.083342 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/admitere/nivel-masterat/calendarul-concursului-de-admitere-nivel-master/
+50 qid:144 1:1432.0 2:1.0806489 3:0.018838903 4:4.083342 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/admitere/nivel-masterat/calendarul-concursului-de-admitere-nivel-master/
+10 qid:144 1:1304.0 2:1.1048149 3:0.018838903 4:4.0795712 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/lista-candidatilor-inscrisi-la-admiterea-nivel-master-sesiunea-septembrie-2021/
+# Q145 - Acte+necesare+Insciere
+50 qid:145 1:1816.0 2:1.413804 3:0.018838903 4:3.0361495 5:16.0 6:2.0611753 # https://www.cs.ubbcluj.ro/calendar-acte-necesare-si-procedura-de-inscriere-la-examenul-de-licenta-in-sesiunea-iunie-iulie-2022/
+50 qid:145 1:1816.0 2:1.413804 3:0.018838903 4:3.0361495 5:16.0 6:2.0611753 # http://www.cs.ubbcluj.ro/calendar-acte-necesare-si-procedura-de-inscriere-la-examenul-de-licenta-in-sesiunea-iunie-iulie-2022/
+35 qid:145 1:1304.0 2:1.4999527 3:0.018838903 4:2.9921412 5:13.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/informatii-privind-sustinerea-examenului-de-licenta-si-disertatie/
+35 qid:145 1:1304.0 2:1.4999527 3:0.018838903 4:2.9921412 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/informatii-privind-sustinerea-examenului-de-licenta-si-disertatie/
+50 qid:145 1:1816.0 2:1.3310196 3:0.018838903 4:2.9893095 5:15.0 6:2.1357625 # http://www.cs.ubbcluj.ro/calendar-acte-necesare-si-procedura-de-inscriere-la-examenul-de-disertatie-in-sesiunea-iunie-iulie-2022/
+50 qid:145 1:1688.0 2:1.3538967 3:0.018838903 4:2.9798663 5:15.0 6:2.1357625 # https://www.cs.ubbcluj.ro/calendar-acte-necesare-si-procedura-de-inscriere-la-examenul-de-disertatie-in-sesiunea-iunie-iulie-2021/
+50 qid:145 1:1688.0 2:1.3538967 3:0.018838903 4:2.9798663 5:15.0 6:2.1357625 # http://www.cs.ubbcluj.ro/calendar-acte-necesare-si-procedura-de-inscriere-la-examenul-de-disertatie-in-sesiunea-iunie-iulie-2021/
+# Q146 - Taxe+Admitere
+10 qid:146 1:536.0 2:1.7642522 3:0.9988764 4:3.357425 5:7.0 6:3.0059812 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/feed/
+10 qid:146 1:536.0 2:1.7642522 3:0.9988764 4:3.357425 5:7.0 6:3.0059812 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/feed/
+50 qid:146 1:1304.0 2:1.6537576 3:0.018838903 4:3.3459663 5:11.0 6:2.4972315 # https://www.cs.ubbcluj.ro/taxe-pentru-concursul-de-admitere-2021/
+50 qid:146 1:1176.0 2:1.6692859 3:0.018838903 4:3.3459663 5:11.0 6:2.4972315 # http://www.cs.ubbcluj.ro/taxe-pentru-concursul-de-admitere-2021/
+35 qid:146 1:1816.0 2:1.6881179 3:0.018838903 4:3.303226 5:7.0 6:3.0059812 # http://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/
+35 qid:146 1:1816.0 2:1.6881179 3:0.018838903 4:3.303226 5:7.0 6:3.0059812 # https://www.cs.ubbcluj.ro/anunturi/anunturi-studenti/anunturi-taxe/
+40 qid:146 1:1432.0 2:1.5789472 3:0.018838903 4:3.2995398 5:11.0 6:2.4972315 # http://www.cs.ubbcluj.ro/admitere/nivel-licenta/taxe-admitere-facultate-nivel-licenta/
+# Q147 - Concurs+Mate+Info
+40 qid:147 1:536.0 2:3.0582807 3:0.018838903 4:5.695143 5:15.0 6:0.0 # https://www.cs.ubbcluj.ro/pruefungsthemenmuster-in-mathematik-und-informatik-fuer-das-mathe-info-ubb-wettbewerb-und-fuer-die-aufnahmepruefung-2019/
+40 qid:147 1:536.0 2:3.0582807 3:0.018838903 4:5.695143 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/pruefungsthemenmuster-in-mathematik-und-informatik-fuer-das-mathe-info-ubb-wettbewerb-und-fuer-die-aufnahmepruefung-2019/
+50 qid:147 1:2584.0 2:3.043273 3:0.018838903 4:5.558217 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/concursul-mate-info-ubb-2022/
+50 qid:147 1:2584.0 2:3.043273 3:0.018838903 4:5.5459642 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/concursul-mate-info-ubb-2022/
+40 qid:147 1:1688.0 2:2.9432545 3:0.018838903 4:5.493534 5:16.0 6:0.0 # http://www.cs.ubbcluj.ro/modele-de-subiecte-de-matematica-si-informatica-pentru-concursul-mate-info-ubb-si-admiterea-la-facultate-2019/
+40 qid:147 1:1816.0 2:2.89079 3:0.018838903 4:5.4620886 5:16.0 6:0.0 # https://www.cs.ubbcluj.ro/modele-de-subiecte-de-matematica-si-informatica-pentru-concursul-mate-info-ubb-si-admiterea-la-facultate-2019/
+10 qid:147 1:664.0 2:3.0557692 3:0.9988764 4:5.2548532 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/concursuri/concursuri-pentru-elevii-de-liceu/feed/
+# Q148 - Subiecte+Concurs+Mate+Info
+50 qid:148 1:1688.0 2:1.498179 3:0.018838903 4:7.062335 5:16.0 6:2.146473 # http://www.cs.ubbcluj.ro/modele-de-subiecte-de-matematica-si-informatica-pentru-concursul-mate-info-ubb-si-admiterea-la-facultate-2019/
+50 qid:148 1:1816.0 2:1.479477 3:0.018838903 4:7.0308895 5:16.0 6:2.146473 # https://www.cs.ubbcluj.ro/modele-de-subiecte-de-matematica-si-informatica-pentru-concursul-mate-info-ubb-si-admiterea-la-facultate-2019/
+40 qid:148 1:2584.0 2:0.89271736 3:0.018838903 4:6.4568205 5:10.0 6:0.0 # https://www.cs.ubbcluj.ro/concursul-mate-info-ubb-2022/
+40 qid:148 1:2584.0 2:0.89271736 3:0.018838903 4:6.4445677 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/concursul-mate-info-ubb-2022/
+10 qid:148 1:1432.0 2:1.12062 3:0.018838903 4:6.36579 5:15.0 6:0.0 # http://www.cs.ubbcluj.ro/precizari-pentru-candidatii-care-au-achitat-taxa-de-concurs-si-doresc-retragerea/
+35 qid:148 1:1560.0 2:1.4600605 3:0.018838903 4:6.2858 5:17.0 6:2.0740404 # http://www.cs.ubbcluj.ro/modele-noi-de-subiecte-de-matematica-si-informatica-pentru-concursul-mate-info-ubb-si-admiterea-la-facultate/
+5 qid:148 1:1944.0 2:1.0064281 3:0.018838903 4:6.119556 5:10.0 6:0.0 # http://www.cs.ubbcluj.ro/anunturi/concursuri/concursuri-pentru-elevii-de-liceu/
+# Q149 - Admitere+doctorat
+35 qid:149 1:408.0 2:1.7534429 3:0.9988764 4:3.5612037 5:8.0 6:2.2483444 # http://www.cs.ubbcluj.ro/anunturi/anunturi-admitere/anunturi-admitere-doctorat/feed/
+50 qid:149 1:1816.0 2:1.7261358 3:0.018838903 4:3.5140543 5:8.0 6:2.2483444 # http://www.cs.ubbcluj.ro/anunturi/anunturi-admitere/anunturi-admitere-doctorat/
+40 qid:149 1:1560.0 2:1.706575 3:0.018838903 4:3.4740458 5:15.0 6:1.678819 # http://www.cs.ubbcluj.ro/calendarul-de-admitere-la-studii-universitare-de-doctorat-in-anul-2021/
+10 qid:149 1:1560.0 2:1.696455 3:0.018838903 4:3.465339 5:15.0 6:1.678819 # http://www.cs.ubbcluj.ro/calendarul-de-admitere-la-studii-universitare-de-doctorat-in-anul-2020/
+40 qid:149 1:1560.0 2:1.706575 3:0.018838903 4:3.4632804 5:15.0 6:1.678819 # https://www.cs.ubbcluj.ro/calendarul-de-admitere-la-studii-universitare-de-doctorat-in-anul-2021/
+40 qid:149 1:1432.0 2:1.6859293 3:0.018838903 4:3.4595938 5:12.0 6:1.8832684 # http://www.cs.ubbcluj.ro/planificarea-candidatilor-pentru-concursul-de-admitere-la-doctorat-sesiunea-septembrie-2021/
+10 qid:149 1:1432.0 2:1.6859293 3:0.018838903 4:3.4595938 5:12.0 6:1.8832684 # http://www.cs.ubbcluj.ro/planificarea-candidatilor-pentru-concursul-de-admitere-la-doctorat-sesiunea-septembrie-2020/
+# Q150 - Admiterea+anii+precedenti
+35 qid:150 1:536.0 2:1.752626 3:0.9988764 4:7.049362 5:9.0 6:2.2691386 # http://www.cs.ubbcluj.ro/admiterea-in-anii-precedenti/feed/
+3 qid:150 1:64.0 2:0.0 3:0.018838903 4:5.993098 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/apps/fise/
+40 qid:150 1:1432.0 2:1.4722025 3:0.018838903 4:5.6930156 5:9.0 6:0.0 # http://www.cs.ubbcluj.ro/admitere/nivel-licenta/subiecte-din-anii-precedenti/
+50 qid:150 1:1816.0 2:1.6889021 3:0.018838903 4:5.546591 5:9.0 6:2.2691386 # http://www.cs.ubbcluj.ro/admiterea-in-anii-precedenti/
+5 qid:150 1:2072.0 2:1.3694594 3:0.018838903 4:4.865095 5:14.0 6:0.0 # https://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+5 qid:150 1:2072.0 2:1.3694594 3:0.018838903 4:4.865095 5:14.0 6:0.0 # http://www.cs.ubbcluj.ro/studenti/examen-de-licenta-si-disertatie/manuale-si-modele-de-subiecte-pentru-examenul-de-licenta/
+10 qid:150 1:2584.0 2:1.3673174 3:0.018838903 4:4.617679 5:11.0 6:0.0 # https://www.cs.ubbcluj.ro/intrebari-frecvente-admitere-nivel-licenta-2021/
+# Q151 - Catalin+Rusu
+1 qid:151 1:144.0 2:4.457245 3:0.83134925 4:8.660483 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLG5005.html
+1 qid:151 1:600.0 2:4.437209 3:0.8313496 4:8.636335 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/IG1.html
+1 qid:151 1:46.0 2:4.2078986 3:0.9359769 4:8.577078 5:3.0 6:4.457982 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/ruca.html
+50 qid:151 1:128.0 2:4.1003566 3:0.92120814 4:8.552233 5:5.0 6:3.9523773 # http://www.cs.ubbcluj.ro/~rusu/
+1 qid:151 1:344.0 2:4.311182 3:0.8313489 4:8.390906 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/sali/NTTSocrate.html
+1 qid:151 1:168.0 2:4.0498676 3:0.8313489 4:8.369946 5:3.0 6:4.457982 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/ruca.html
+1 qid:151 1:600.0 2:4.272235 3:0.7839042 4:8.317108 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/grafic/IG1.html
+# Q152 - Diana+Troanca
+50 qid:152 1:1944.0 2:2.7312832 3:0.018838903 4:8.764132 5:9.0 6:2.586548 # http://www.cs.ubbcluj.ro/~dianat/index.php
+40 qid:152 1:472.0 2:2.4616992 3:0.018838903 4:8.307789 5:9.0 6:2.586548 # http://www.cs.ubbcluj.ro/~dianat/sda-online.php
+40 qid:152 1:664.0 2:2.3687289 3:0.018838903 4:7.9248953 5:9.0 6:2.586548 # http://www.cs.ubbcluj.ro/~dianat/sgbd.php
+3 qid:152 1:536.0 2:2.2198732 3:0.018838903 4:6.332568 5:4.0 6:0.0 # http://www.cs.ubbcluj.ro/icfca14/conference-organization/
+5 qid:152 1:856.0 2:0.0 3:0.018838903 4:3.5186806 5:13.0 6:0.0 # http://www.cs.ubbcluj.ro/~studia-i/journal/journal/article/view/74
+1 qid:152 1:376.0 2:2.8853378 3:0.83134925 4:2.884208 5:5.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLR5009.html
+1 qid:152 1:168.0 2:2.874744 3:0.83134925 4:2.8745265 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLE5152.html
+# Q153 - Kuderna+Iulian+Benta
+40 qid:153 1:96.0 2:5.31289 3:0.018838903 4:12.802855 5:6.0 6:3.130026 # http://www.cs.ubbcluj.ro/~benta/about/
+40 qid:153 1:72.0 2:5.0736885 3:0.018838903 4:12.614488 5:6.0 6:3.130026 # http://www.cs.ubbcluj.ro/~benta/contact/
+35 qid:153 1:13.0 2:5.170455 3:0.6704388 4:12.340704 5:5.0 6:3.3075233 # http://www.cs.ubbcluj.ro/~benta/feed/
+10 qid:153 1:14.0 2:5.168784 3:0.9553304 4:12.325072 5:7.0 6:2.97061 # http://www.cs.ubbcluj.ro/~benta/comments/feed/
+5 qid:153 1:15.0 2:5.1671143 3:0.6704388 4:12.321172 5:6.0 6:3.130026 # http://www.cs.ubbcluj.ro/~benta/author/benta_iulian/feed/
+50 qid:153 1:76.0 2:5.067259 3:0.018838903 4:12.198927 5:5.0 6:3.3075233 # http://www.cs.ubbcluj.ro/~benta/
+35 qid:153 1:80.0 2:5.0608454 3:0.018838903 4:12.088835 5:6.0 6:3.130026 # http://www.cs.ubbcluj.ro/~benta/news/
+# Q154 - Sanda+Avram
+40 qid:154 1:600.0 2:2.909981 3:0.018838903 4:6.01023 5:6.0 6:1.8148999 # http://www.cs.ubbcluj.ro/~sanda/html/teaching_Experience/SO1/
+35 qid:154 1:1816.0 2:2.8990753 3:0.018838903 4:5.9844007 5:5.0 6:1.917819 # http://www.cs.ubbcluj.ro/~sanda/html/publications/all/Author/
+35 qid:154 1:1816.0 2:2.8990753 3:0.018838903 4:5.9844007 5:5.0 6:1.917819 # http://www.cs.ubbcluj.ro/~sanda/html/publications/all/Title/
+35 qid:154 1:1816.0 2:2.8990753 3:0.018838903 4:5.9844007 5:5.0 6:1.917819 # http://www.cs.ubbcluj.ro/~sanda/html/publications/all/Year/
+35 qid:154 1:1816.0 2:2.8990753 3:0.018838903 4:5.9844007 5:5.0 6:1.917819 # http://www.cs.ubbcluj.ro/~sanda/html/publications/all/all/
+35 qid:154 1:1816.0 2:2.8990753 3:0.018838903 4:5.9844007 5:5.0 6:1.917819 # http://www.cs.ubbcluj.ro/~sanda/html/publications/all/category/
+35 qid:154 1:1816.0 2:2.8990753 3:0.018838903 4:5.9844007 5:5.0 6:1.917819 # http://www.cs.ubbcluj.ro/~sanda/html/publications/all/importance/
+# Q155 - Christian+Sacarea
+5 qid:155 1:136.0 2:3.1641078 3:0.93597746 4:7.395795 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MME3052.html
+3 qid:155 1:536.0 2:3.1321795 3:0.48490477 4:7.2994175 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/NTTSocrate.html
+1 qid:155 1:72.0 2:3.1015613 3:0.83134925 4:7.2479424 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLG5055.html
+3 qid:155 1:344.0 2:3.197795 3:0.25550172 4:7.176086 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/Saturn.html
+1 qid:155 1:600.0 2:3.0499601 3:0.8313496 4:7.1454926 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/IG1.html
+1 qid:155 1:152.0 2:2.7974958 3:0.83134884 4:6.925089 5:3.0 6:4.6142054 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/sach.html
+1 qid:155 1:600.0 2:2.9365635 3:0.7839042 4:6.8813725 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/grafic/IG1.html
+# Q156 - Radu+Dragos
+5 qid:156 1:216.0 2:2.631194 3:0.25550172 4:6.756839 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/C406.html
+1 qid:156 1:232.0 2:2.56384 3:0.8313493 4:6.580799 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLE5002.html
+3 qid:156 1:50.0 2:2.3668437 3:0.9359769 4:6.3786135 5:3.0 6:3.4857743 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/drra.html
+1 qid:156 1:88.0 2:2.4655018 3:0.83134925 4:6.3283195 5:5.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLR5158.html
+1 qid:156 1:88.0 2:2.4655018 3:0.8313493 4:6.3172503 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLG5002.html
+3 qid:156 1:856.0 2:2.4388537 3:0.48490477 4:6.2751827 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/L306.html
+1 qid:156 1:1176.0 2:2.5187807 3:0.83134955 4:6.157415 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/MI3.html
+# Q157 - Cristea+Diana
+1 qid:157 1:120.0 2:4.1990113 3:0.83134925 4:7.032996 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLG5027.html
+5 qid:157 1:136.0 2:4.192234 3:0.93597746 4:7.021788 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MLG5028.html
+1 qid:157 1:536.0 2:4.112745 3:0.8313496 4:6.868294 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/IG2.html
+3 qid:157 1:536.0 2:4.0759673 3:0.935978 4:6.8404107 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/tabelar/IG2.html
+3 qid:157 1:312.0 2:4.071099 3:0.48490477 4:6.8068256 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/Discovery.html
+1 qid:157 1:600.0 2:4.0537033 3:0.78390425 4:6.7668705 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/grafic/IG2.html
+3 qid:157 1:536.0 2:4.029638 3:0.48490477 4:6.7631106 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/NTTSocrate.html
+# Q158 - Orar+Info+germana
+40 qid:158 1:280.0 2:0.8529762 3:0.70804423 4:4.1148977 5:6.0 6:3.2074347 # https://www.cs.ubbcluj.ro/files/orar/2021-1/
+5 qid:158 1:312.0 2:0.698055 3:0.25550172 4:3.978459 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2018-2/sali/NTTSocrate.html
+35 qid:158 1:344.0 2:0.6873422 3:0.8313489 4:3.9760134 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/sali/NTTSocrate.html
+10 qid:158 1:312.0 2:0.698055 3:0.48490477 4:3.9731941 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/Saturn.html
+35 qid:158 1:344.0 2:0.6873422 3:0.93597704 4:3.9715686 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/sali/Saturn.html
+35 qid:158 1:144.0 2:0.760264 3:0.83134925 4:3.9709477 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLG5005.html
+3 qid:158 1:216.0 2:0.7322953 3:0.8313489 4:3.9691095 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/osol.html
+# Q159 - Orar+Matematica+maghiara
+35 qid:159 1:216.0 2:0.7322953 3:0.8313489 4:5.269509 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/luan.html
+35 qid:159 1:216.0 2:0.7322953 3:0.9359769 4:5.2674603 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/szfe.html
+35 qid:159 1:376.0 2:0.6769533 3:0.83134884 4:5.251289 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/szfe.html
+35 qid:159 1:408.0 2:0.6668737 3:0.83134884 4:5.247585 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/ansz.html
+35 qid:159 1:440.0 2:0.65708995 3:0.9359769 4:5.2454967 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/ansz.html
+5 qid:159 1:144.0 2:0.760264 3:0.8313489 4:5.2416973 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/szzs.html
+35 qid:159 1:344.0 2:0.6873422 3:0.93597704 4:5.236513 5:2.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/sali/gamma.html
+# Q160 - Orar+Informatica+engleza
+35 qid:160 1:152.0 2:0.7570513 3:0.9359769 4:4.0312743 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/laad.html
+35 qid:160 1:152.0 2:0.7570513 3:0.8313489 4:4.0312743 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/laad.html
+35 qid:160 1:232.0 2:0.72635716 3:0.93597746 4:3.9952168 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MLE5013.html
+35 qid:160 1:232.0 2:0.72635716 3:0.8313493 4:3.9952168 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLE5002.html
+35 qid:160 1:232.0 2:0.72635716 3:0.83134925 4:3.9952168 5:5.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLE5077.html
+5 qid:160 1:232.0 2:0.72635716 3:0.93597746 4:3.9952168 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MLE0028.html
+35 qid:160 1:312.0 2:0.698055 3:0.83134925 4:3.9927654 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MLE5005.html
+# Q161 - Orar+Structuri+de+date+si+algoritmi
+35 qid:161 1:248.0 2:0.72051466 3:0.9359769 4:10.763057 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/midi.html
+35 qid:161 1:168.0 2:0.7507067 3:0.93597704 4:10.725293 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/sovi.html
+35 qid:161 1:200.0 2:0.7383312 3:0.9359769 4:10.632985 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/mian1.html
+10 qid:161 1:184.0 2:0.7444675 3:0.9359769 4:10.505656 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/dima.html
+5 qid:161 1:88.0 2:0.78353965 3:0.93597704 4:10.350262 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/vatu.html
+5 qid:161 1:1432.0 2:0.4516685 3:0.9359776 4:10.347603 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/grafic/I1.html
+5 qid:161 1:1560.0 2:0.43415534 3:0.93597764 4:10.34679 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/grafic/IE1.html
+# Q162 - Orar+Programare+orientate+obiect
+35 qid:162 1:200.0 2:0.7383312 3:0.8313489 4:7.194049 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/laio.html
+5 qid:162 1:4120.0 2:0.0 3:0.09601314 4:6.4031634 5:0.0 6:0.0 # http://www.cs.ubbcluj.ro/wp-content/uploads/programa-informatica-definitivat-si-gradul-II.pdf
+35 qid:162 1:68.0 2:0.79220164 3:0.83134925 4:5.936644 5:5.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MME8027.html
+35 qid:162 1:144.0 2:0.760264 3:0.9359769 4:5.8142424 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/szan.html
+35 qid:162 1:128.0 2:0.76677185 3:0.93597704 4:5.792169 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/mocr.html
+35 qid:162 1:104.0 2:0.7767453 3:0.93597704 4:5.768488 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/kndo.html
+35 qid:162 1:104.0 2:0.7767453 3:0.9359769 4:5.7617636 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/maim.html
+# Q163 - ORAR+Sisteme+de+operare
+35 qid:163 1:200.0 2:0.7383312 3:0.9359769 4:6.350989 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/boda.html
+35 qid:163 1:128.0 2:0.76677185 3:0.9359769 4:6.2827764 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/muho.html
+35 qid:163 1:120.0 2:0.77006775 3:0.9359769 4:6.2784376 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/caal.html
+35 qid:163 1:104.0 2:0.7767453 3:0.93597704 4:6.249821 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/brcr.html
+5 qid:163 1:248.0 2:0.72051466 3:0.9359769 4:6.2307587 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/drsa.html
+35 qid:163 1:88.0 2:0.78353965 3:0.9359769 4:6.2093925 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/mobo.html
+5 qid:163 1:408.0 2:0.6668737 3:0.48490477 4:6.20922 5:2.0 6:0.0 # http://www.cs.ubbcluj.ro/files/orar/2019-2/sali/L001.html
+# Q164 - ORAR+Fundamentele+programarii
+35 qid:164 1:152.0 2:0.7570513 3:0.8313489 4:9.044733 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/bran.html
+35 qid:164 1:152.0 2:0.7570513 3:0.8313489 4:9.00801 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/mobo.html
+35 qid:164 1:152.0 2:0.7570513 3:0.8313489 4:8.904883 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/mida.html
+35 qid:164 1:1048.0 2:0.5138526 3:0.7839041 4:8.83983 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/grafic/IE1.html
+35 qid:164 1:600.0 2:0.61218286 3:0.8313496 4:8.832946 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/tabelar/IG1.html
+5 qid:164 1:1048.0 2:0.5138526 3:0.783904 4:8.8246975 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/grafic/I1.html
+5 qid:164 1:600.0 2:0.61218286 3:0.7839042 4:8.725555 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/grafic/IG1.html
+# Q165 - ORAR+Inteligenta+artificiala
+35 qid:165 1:168.0 2:0.7507067 3:0.9359769 4:7.891245 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/meag.html
+35 qid:165 1:440.0 2:0.65708995 3:0.9359769 4:7.887791 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/mitu.html
+35 qid:165 1:120.0 2:0.77006775 3:0.93597704 4:7.868112 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/koan.html
+35 qid:165 1:128.0 2:0.76677185 3:0.9359769 4:7.859477 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/modu.html
+35 qid:165 1:408.0 2:0.6668737 3:0.9359769 4:7.8285213 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/coad.html
+5 qid:165 1:68.0 2:0.79220164 3:0.93597704 4:7.7278495 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/tovl1.html
+35 qid:165 1:536.0 2:0.6293884 3:0.935978 4:7.6320977 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/tabelar/MIE3.html
+# Q166 - ORAR+Metode+avansate+de+programare
+35 qid:166 1:232.0 2:0.72635716 3:0.8313489 4:6.0645094 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/crda.html
+35 qid:166 1:144.0 2:0.760264 3:0.8313489 4:5.985733 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/bofl1.html
+35 qid:166 1:128.0 2:0.76677185 3:0.8313489 4:5.949421 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/seca.html
+35 qid:166 1:200.0 2:0.7383312 3:0.8313489 4:5.9381194 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/szan.html
+35 qid:166 1:184.0 2:0.7444675 3:0.8313489 4:5.907354 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/kasa.html
+5 qid:166 1:1048.0 2:0.6943021 3:0.83134925 4:5.8887014 5:2.0 6:4.0841265 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/index.html
+35 qid:166 1:168.0 2:0.7507067 3:0.83134884 4:5.8627872 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/crfl.html
+# Q167 - ORAR+Programare+Web
+35 qid:167 1:200.0 2:0.7383312 3:0.9359769 4:3.213212 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/hadi.html
+35 qid:167 1:112.0 2:0.77339214 3:0.93597704 4:3.1819706 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/turo.html
+35 qid:167 1:96.0 2:0.78012776 3:0.93597704 4:3.163913 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/tazo.html
+35 qid:167 1:72.0 2:0.7904539 3:0.93597704 4:3.1381052 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/cian2.html
+35 qid:167 1:120.0 2:0.77006775 3:0.9359769 4:3.134712 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/sucs.html
+5 qid:167 1:104.0 2:0.7767453 3:0.9359769 4:3.1197152 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/baio.html
+35 qid:167 1:184.0 2:0.7444675 3:0.9359769 4:3.1083875 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/cocl1.html
+# Q168 - ORAR+Baze+de+date
+35 qid:168 1:280.0 2:0.70910704 3:0.8313489 4:4.580615 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/poem.html
+35 qid:168 1:232.0 2:0.72635716 3:0.8313489 4:4.5684023 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/anca.html
+35 qid:168 1:216.0 2:0.7322953 3:0.8313489 4:4.53263 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/lobe.html
+35 qid:168 1:152.0 2:0.7570513 3:0.8313489 4:4.517259 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/trdi.html
+35 qid:168 1:52.0 2:0.7992703 3:0.83134925 4:4.5164995 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/disc/MMR8057.html
+5 qid:168 1:184.0 2:0.7444675 3:0.8313489 4:4.514758 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-1/cadre/moan.html
+35 qid:168 1:40.0 2:0.8046552 3:0.93597746 4:4.474326 5:8.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/disc/MMR9004.html
+# Q169 - ORAR+Sisteme+de+gestiune+a+bazelor+de+date
+35 qid:169 1:344.0 2:0.6873422 3:0.9359769 4:12.936011 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/anca.html
+35 qid:169 1:264.0 2:0.7147653 3:0.9359769 4:12.817235 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/poem.html
+35 qid:169 1:248.0 2:0.72051466 3:0.9359769 4:12.763045 5:4.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/moan.html
+35 qid:169 1:152.0 2:0.7570513 3:0.93597704 4:12.716786 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/bora2.html
+35 qid:169 1:184.0 2:0.7444675 3:0.9359769 4:12.685576 5:3.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/cadre/trdi.html
+5 qid:169 1:1304.0 2:0.47065395 3:0.9359776 4:12.535415 5:7.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/grafic/I2.html
+5 qid:169 1:1304.0 2:0.47065395 3:0.9359779 4:12.533279 5:6.0 6:0.0 # https://www.cs.ubbcluj.ro/files/orar/2021-2/grafic/IE2.html

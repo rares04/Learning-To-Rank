@@ -1,0 +1,39 @@
+{
+    "store": "myfeature_store",
+    "name": "my_linearsvc_model",
+    "class": "org.apache.solr.ltr.model.LinearModel",
+    "features": [
+        {
+            "name": "originalScore"
+        },
+        {
+            "name": "titleLength"
+        },
+        {
+            "name": "contentLength"
+        },
+        {
+            "name": "titleScore"
+        },
+        {
+            "name": "contentScore"
+        },
+        {
+            "name": "freshness"
+        },
+        {
+            "name": "clickCount"
+        }
+    ],
+    "params": {
+        "weights": {
+            "originalScore": -6.288693566366976e-17,
+            "titleLength": -4.450827329037952e-20,
+            "contentLength": 2.0616347675459654e-18,
+            "titleScore": -8.237127511920683e-20,
+            "contentScore": -4.3083252193294456e-19,
+            "freshness": 9.969317909561175e-21,
+            "clickCount": 2.7973369646775514e-11
+        }
+    }
+}
